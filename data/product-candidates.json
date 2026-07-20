@@ -1,1 +1,524 @@
-[]
+[
+  {
+    "candidateId": "deskfit:B009S750LA",
+    "siteId": "deskfit",
+    "productName": "VIVO Dual Monitor Desk Mount",
+    "model": "STAND-V002",
+    "variant": "Black, fixed-pole dual arm, 13-30 inch screens, up to 22 lb per monitor",
+    "asin": "B009S750LA",
+    "affiliateUrl": "https://www.amazon.com/dp/B009S750LA/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "constraint",
+    "bestFor": "A mostly set-and-forget side-by-side pair on a shallow desk that has at least 2 inches of usable underside depth for the clamp plate.",
+    "skipIf": "The rear lip has less than 2 inches of usable underside depth, either monitor exceeds 22 lb without its stand, the screens lack 75x75 or 100x100 VESA holes, or you reposition screens throughout the day.",
+    "mainTradeoff": "The fixed pole and joint-by-joint adjustments are less convenient than independently counterbalanced arms.",
+    "closestAlternative": "HUANUO DS8 Elevation Dual Monitor Arm HNDS8 when independent height adjustment or vertical stacking matters more than minimizing rear travel.",
+    "editorialThesis": "This is the best-researched constraint pick for readers who can satisfy the clamp plate measurement and want a static two-screen layout without paying for motion they will not use.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B009S750LA",
+        "note": "Verified specification and identity: the current listing names VIVO STAND-V002, black, ASIN B009S750LA, for two 13-30 inch screens up to 22 lb each with 75x75 or 100x100 VESA and clamp or grommet mounting.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://vivo-us.com/products/stand-v002",
+        "note": "Manufacturer specification: the STAND-V002 series uses a 17-inch pole, a 29-inch arm span for this variant, clamp or grommet mounting, and small per-plate height correction; these are manufacturer claims, not hands-on findings.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://forums.tomshardware.com/threads/help-with-dual-monitor-stand.3558553/",
+        "note": "Owner/support pattern: a shallow rear lip triggered a fit question, and a VIVO representative said STAND-V002 needs 2 inches of underside depth so the clamp plate bears fully; this is the key pre-purchase measurement.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for VIVO STAND-V002 and B009S750LA; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2019/VIVO-Recalls-Speaker-Wall-Mounts-Due-to-Fall-and-Injury-Hazards?language=en",
+        "note": "Official recall cross-check: CPSC's VIVO mount recall covers MOUNT-PLAY5 speaker wall mounts, not STAND-V002 monitor desk mounts; the model exclusion was verified rather than treating a brand-level hit as an exact recall.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Verified exact ASIN, model, black variant, weight limits, VESA patterns, and canonical affiliate URL.",
+      "Fixed-pole layout suits readers who set screen height once and prioritize reclaimed desk surface over frequent movement.",
+      "The clamp's 2-inch underside-depth requirement is documented clearly enough to turn into a useful fit gate."
+    ],
+    "failureModes": [
+      "A shallow apron, rail, beveled edge, or cable tray can leave too little flat underside area for the clamp plate.",
+      "Static joints require manual loosening and retightening, so daily screen repositioning is higher-friction.",
+      "Desk flex or loose joints can still produce visible monitor movement even when monitor weight is within the listing limit."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 80
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the constraint slot. The exact variant and limits are verified, the official safety search has no exact-model match, and the unusually important 2-inch clamp-plate requirement is documented. It improves the guide by giving shallow-desk readers a measurable set-and-forget option rather than another generic adjustable arm.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B01N2YFO5Z",
+    "siteId": "deskfit",
+    "productName": "VIVO Mechanical Arm Dual Monitor Desk Mount",
+    "model": "STAND-V002O",
+    "variant": "Classic black, mechanical spring dual arm, 17-32 inch screens, 4.4-19.8 lb per monitor",
+    "asin": "B01N2YFO5Z",
+    "affiliateUrl": "https://www.amazon.com/dp/B01N2YFO5Z/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A desk with generous rear clearance where both screens are moved often and fall inside the mechanical spring's supported weight range.",
+    "skipIf": "The desk is close to a wall, because the exact Amazon listing warns that the backs of the arms extend past the desk edge.",
+    "mainTradeoff": "Easy independent movement comes with unavoidable rear arm travel that conflicts with the selected wall-adjacent setup problem.",
+    "closestAlternative": "VIVO STAND-V002 for a more static layout where minimizing rear-travel surprises matters more than toolless movement.",
+    "editorialThesis": "The arm is easy to identify and substantiate, but its own listing disqualifies it from a shallow wall-adjacent recommendation even though it may fit deeper desks well.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01N2YFO5Z",
+        "note": "Verified specification and identity: current listing names black STAND-V002O, ASIN B01N2YFO5Z, 17-32 inch screens and 4.4-19.8 lb per arm; it explicitly warns that the backs of the arms extend past the desk edge.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://vivo-us.com/products/stand-v002o",
+        "note": "Manufacturer specification: STAND-V002O has a 33-inch arm span, 19.75-inch maximum extension, clamp fit from 0.4 to 3.1 inches, and grommet fit from 0.4 to 1.9 inches; these are manufacturer claims.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/StandingDesk/comments/1dtgvt9/wobble_flexispot_e7_pro_vivo_v002o_double_monitor/",
+        "note": "Owner-reported pattern: a standing-desk owner described visible movement with the exact V002O dual arm; this is anecdotal and partly dependent on desk motion, not a controlled product test.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for VIVO STAND-V002O and B01N2YFO5Z; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2019/VIVO-Recalls-Speaker-Wall-Mounts-Due-to-Fall-and-Injury-Hazards?language=en",
+        "note": "Official recall cross-check: the CPSC VIVO recall is for MOUNT-PLAY5 speaker wall mounts, not this monitor desk mount.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Exact model, black variant, ASIN, supported monitor range, desk-thickness range, and affiliate URL are verified.",
+      "Independent mechanical arms support frequent individual height and angle changes.",
+      "The official listing states the rear-travel limitation plainly."
+    ],
+    "failureModes": [
+      "Arm elbows extend behind the desk and can strike a wall before screens reach the desired depth.",
+      "Standing-desk motion can amplify screen movement at extended arm positions.",
+      "A monitor outside the 4.4-19.8 lb range may not counterbalance correctly."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 13,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 3,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 57
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this reader problem. The exact listing's warning that the arms extend past the desk edge directly conflicts with a wall-adjacent shallow desk, so strong identity evidence cannot rescue the weak fit.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B0855ZBPXD",
+    "siteId": "deskfit",
+    "productName": "HUANUO DS8 Elevation Dual Monitor Arm",
+    "model": "HNDS8",
+    "variant": "Black tall-column dual gas-spring arm, 17-32 inch screens, 4.4-19.8 lb per monitor",
+    "asin": "B0855ZBPXD",
+    "affiliateUrl": "https://www.amazon.com/dp/B0855ZBPXD/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "compatibility",
+    "bestFor": "Two 27-inch monitors that need independent height, portrait/landscape alignment, or a supported vertical-stack option on a desk that can leave roughly 5 inches behind the screens.",
+    "skipIf": "The desk must sit flush to the wall or the buyer cannot test a roughly 5-inch rear gap before committing.",
+    "mainTradeoff": "The tall pole and independent arms add useful layout flexibility, but the manufacturer does not publish a folded rear-envelope measurement for a side-by-side 27-inch setup.",
+    "closestAlternative": "VIVO STAND-V002 for a cheaper, more static two-screen arrangement with a documented clamp-plate depth requirement.",
+    "editorialThesis": "HNDS8 is the strongest conditional candidate for mismatched-height or stackable 27-inch screens, but activation should wait until Deskfit can state a conservative wall-clearance requirement from stronger exact-setup evidence.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0855ZBPXD",
+        "note": "Verified specification and identity: the current listing maps ASIN B0855ZBPXD to model HNDS8, black, for 17-32 inch screens up to 19.8 lb with 75x75 or 100x100 VESA.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.huanuo.com/en-ca/products/huanuo-dual-monitor-mount-for-13-inch-to-32-inch-screens",
+        "note": "Manufacturer specification: HNDS8 is the DS8 tall-column dual arm with independent adjustment and a 19.8 lb per-arm claim; the brand presents stacking as a supported use case.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/B1adXh9t4RS.pdf",
+        "note": "Official product manual hosted by Amazon identifies model HNDS8 and documents clamp/grommet installation, VESA limits, and tension adjustment after a monitor is attached.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/PHbuildapc/comments/19f4kyf/suggestion_for_dual_monitor_arms_limited_space/",
+        "note": "Owner-reported pattern: one owner said the exact HNDS8 worked for two 27-inch monitors for more than two years; this is anecdotal but directly matches the screen count and size.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/buildapc/comments/wkaqji/need_help_finding_a_good_dual_monitor_arm/",
+        "note": "Owner-reported limitation: an HNDS8 owner with two 32-inch monitors said the desk needed to sit about 5 inches from the wall to push the screens far enough back; monitor size differs, so this is a caution rather than an exact 27-inch measurement.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.skroutz.cy/s/57587212/Huanuo-HNDS8-Vasi-Grafeiou-gia-2-Othones-eos-32-me-Vrachiona.html",
+        "note": "Current verified-purchase pattern: multiple 2026 owners report stable support for mixed 24-32 inch and dual curved 27-inch screens, while one notes vertical stacking limits with two 32-inch displays.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for HUANUO HNDS8 and B0855ZBPXD; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Amazon, manufacturer, and manual sources agree on exact model identity and supported monitor/VESA limits.",
+      "Tall pole and independent arms create a real compatibility slot for mixed heights, portrait orientation, or vertical stacking.",
+      "Owner reports include both long-term dual-27 use and a concrete rear-gap caution."
+    ],
+    "failureModes": [
+      "Arm elbows may require about 5 inches of wall clearance when screens are pushed back, depending on screen width and angle.",
+      "Two larger screens may not fit vertically even when each is individually within the listed size and weight limits.",
+      "Incorrect gas-spring tension or a monitor near the weight boundary can lead to sag or difficult movement."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 6,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 73
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 73. The exact product has unusually good evidence and a distinct mixed-height/stacking role, but the manufacturer does not publish the folded rear envelope and owner evidence suggests roughly 5 inches may be needed behind the desk. That clearance uncertainty matters too much for this specific guide promise.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B07514G4ZL",
+    "siteId": "deskfit",
+    "productName": "Ergotron LX Vertical Stacking Dual Monitor Arm",
+    "model": "45-549-026",
+    "variant": "Tall pole, polished aluminum with black accents, two LX arms, 7-20 lb per monitor",
+    "asin": "B07514G4ZL",
+    "affiliateUrl": "https://www.amazon.com/dp/B07514G4ZL/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A premium vertical or mixed-orientation layout where the buyer values long warranty coverage and broad articulation and can leave rear clearance for the arm elbows.",
+    "skipIf": "The desk must sit almost flush to a wall, the buyer only needs static side-by-side 27-inch screens, or either screen falls outside the exact variant's 7-20 lb supported range.",
+    "mainTradeoff": "The premium construction and tall stacking pole do not solve the central rear-clearance question; the arms can extend up to 25 inches and owner guidance warns wall partitions can restrict elbow movement.",
+    "closestAlternative": "HUANUO HNDS8 for a lower-burden tall-pole stacking path, still subject to rear-clearance verification.",
+    "editorialThesis": "This is a credible upgrade for stacking and long ownership, but it should not be presented as a shallow-wall solution until the guide can provide a conservative folded-depth requirement for dual 27-inch screens.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07514G4ZL",
+        "note": "Verified specification and identity: current listing maps ASIN B07514G4ZL to Ergotron part/model 45-549-026, tall pole, polished aluminum, with two LX arms and a 10-year warranty claim.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://media.ergotron.com/reserved/resources/05-lx-duals-fur-ea-orig.pdf",
+        "note": "Official Ergotron product sheet identifies 45-549-026 and documents 7-20 lb per arm for two-arm use, 75x75/100x100 VESA, 25-inch maximum extension, 13-inch lift, and 10-year warranty.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/best-picks/best-monitor-arms",
+        "note": "Independent hands-on review pattern: Tom's Guide calls the LX Dual Stacking a premium, flexible stacking option but notes its cost and rated-size limitations; Deskfit is using the exact manufacturer's weight limits, not the reviewer's over-limit test.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/Ergotron/comments/1pmobim/lx_pro_vs_lx_premium_vertical_stacking_dual/",
+        "note": "Owner/community fit guidance: a recent discussion says a narrow desk against a wall or partition can restrict focal-depth adjustment when the arm elbows hit the wall; this is a qualitative warning, not a measured clearance specification.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2014/Ergotron-Recalls-Television-Wall-Mounts?language=en",
+        "note": "Official recall cross-check: CPSC recall 14-090 covers listed Ergotron interactive television wall-mount parts, none of which is 45-549-026; the exact desk-arm part is not named in that recall.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Exact part, color, ASIN, supported weight range, VESA patterns, extension, and warranty are supported by Amazon and Ergotron sources.",
+      "Tall pole and two independent arms provide a genuinely different stacking and mixed-orientation upgrade slot.",
+      "Independent review evidence supports the premium-build and flexible-positioning thesis without requiring Deskfit to imply hands-on use."
+    ],
+    "failureModes": [
+      "Arm elbows can hit a wall or partition and prevent the screens from moving far enough back on a shallow desk.",
+      "The buyer can pay for vertical-stacking flexibility that a static side-by-side layout never uses.",
+      "A screen below 7 lb or above 20 lb is outside the exact two-arm variant's supported range."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 15,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 5,
+      "demandSignal": 1,
+      "commercialValue": 1,
+      "total": 74
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 74. Identity, longevity, and the stacking role are well supported, but no current source gives a conservative folded rear-clearance measurement for two 27-inch screens, and owner guidance specifically warns that wall contact can restrict the elbows. Commercial value does not change that fit gap.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B07Q1NJ15Q",
+    "siteId": "deskfit",
+    "productName": "Ergotron LX Dual Side-by-Side Monitor Arm",
+    "model": "45-245-224",
+    "variant": "Matte black, dual side-by-side LX arms, up to 27-inch screens, 7-20 lb per monitor",
+    "asin": "B07Q1NJ15Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B07Q1NJ15Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "default",
+    "bestFor": "A long-term premium side-by-side 27-inch setup on a strong desk with enough rear room to fold or extend two 25-inch-reach arms.",
+    "skipIf": "The desk or wall position cannot accommodate arm elbows behind the screens, the surface is vulnerable to clamp pressure, or either monitor is outside 7-20 lb.",
+    "mainTradeoff": "Excellent independent positioning and long warranty coverage come with a large movement envelope and concentrated clamp load that are not yet quantified for Deskfit's shallow-desk use case.",
+    "closestAlternative": "VIVO STAND-V002 for a more static, lower-complexity option with a documented clamp-depth gate.",
+    "editorialThesis": "This may be the premium side-by-side default on a conventional desk, but the missing folded-depth measurement prevents it from being the default for a desk pushed close to a wall.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07Q1NJ15Q",
+        "note": "Verified specification and identity: current listing maps ASIN B07Q1NJ15Q to Ergotron model 45-245-224, matte black, for two monitors up to 27 inches and 7-20 lb each.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://media.ergotron.com/reserved/resources/05-lx-dual-sxs-ea-orig.pdf",
+        "note": "Official Ergotron product sheet identifies matte-black 45-245-224 and documents 7-20 lb per monitor, 40 lb combined, 25-inch extension, 13-inch lift, and a 10-year warranty.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.pcworld.com/article/2000722/best-monitor-arms.html",
+        "note": "Current independent review: PCWorld names the LX Side-by-Side its best dual-monitor arm and confirms the two-27-inch positioning; this supports quality and fit for ordinary desks, not the unmeasured wall-clearance claim.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.techrepublic.com/pictures/spotlight-ergotron-lx-dual-side-by-side-arm/",
+        "note": "Independent installation report: the arm was straightforward to assemble, but the author documented desk-surface indenting and called out edge shape as an installation factor; the report is older and is used only as a durable ownership caution.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2014/Ergotron-Recalls-Television-Wall-Mounts?language=en",
+        "note": "Official recall cross-check: CPSC recall 14-090 lists different Ergotron television wall-mount parts; 45-245-224 is not among them.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Amazon and current Ergotron documentation agree on the exact matte-black part and dual-27 weight limits.",
+      "Current independent review evidence supports this model family as a high-quality side-by-side option.",
+      "Ten-year manufacturer warranty and serviceable adjustment hardware support long ownership."
+    ],
+    "failureModes": [
+      "Two articulating elbows can contact a nearby wall and pull the screens forward on a shallow desk.",
+      "Clamp pressure can mark or indent a vulnerable desktop without appropriate reinforcement.",
+      "The 27-inch size rating still requires the buyer to verify each screen's stand-free weight and VESA pattern."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 15,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 5,
+      "demandSignal": 1,
+      "commercialValue": 1,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. The exact product has excellent identity, ownership, and independent-review support, but neither Ergotron nor the current reviews provide the folded rear envelope that a wall-adjacent recommendation needs. Desk surface pressure is a second fit risk to resolve.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B0819PPQN6",
+    "siteId": "deskfit",
+    "productName": "AVLT Heavy-Duty Dual Monitor Arm",
+    "model": "AVLT-DM41-1",
+    "variant": "Black, dual gas-spring arm for 13-43 inch flat/curved/ultrawide screens, up to 44 lb per monitor",
+    "asin": "B0819PPQN6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0819PPQN6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Mount two 27-inch monitors on a shallow, wall-adjacent desk without hidden clamp-depth or rear-arm-clearance surprises.",
+    "decisionSlot": "other",
+    "bestFor": "Two unusually heavy displays that genuinely require a much higher per-arm weight limit and have a desk engineered for the larger mount.",
+    "skipIf": "Both 27-inch monitors fall within ordinary 20-22 lb arm limits, the desk is shallow or close to a wall, or the buyer needs an independently accessible manufacturer product page before purchase.",
+    "mainTradeoff": "The 44 lb-per-arm design is overbuilt for ordinary 27-inch office monitors, while the rear movement envelope and official manufacturer product page could not be verified independently of marketplace/manual mirrors.",
+    "closestAlternative": "Ergotron LX Dual Side-by-Side 45-245-224 for premium dual-27 use within a verified 7-20 lb per-monitor range.",
+    "editorialThesis": "High capacity is not the same as better reader fit; this candidate adds weight, complexity, and sourcing uncertainty without solving the shallow-wall constraint for ordinary 27-inch screens.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0819PPQN6",
+        "note": "Verified specification and identity: current listing maps ASIN B0819PPQN6 to model AVLT-DM41-1, black, with a stated 44 lb per-arm capacity and support for 13-43 inch displays.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/B14RBH4iF7L.pdf",
+        "note": "Amazon-hosted installation manual documents assembly and monitor attachment, but an independently accessible AVLT manufacturer product page for this exact model was not found during the run.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/StandingDesk/comments/18msg4s/which_specifications_should_you_consider_when/",
+        "note": "Owner-reported brand pattern: an AVLT owner reports low bounce and high load handling; the post does not establish that the exact DM41-1 is suitable for a shallow wall-adjacent dual-27 layout.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for AVLT-DM41-1 and B0819PPQN6; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Amazon provides a clean exact mapping among ASIN, model, black variant, and high per-arm weight claim.",
+      "High capacity can serve an unusual pair of heavy monitors that would exceed normal dual-arm limits.",
+      "Clamp and grommet mounting plus multiple VESA sizes broaden compatibility on appropriately strong desks."
+    ],
+    "failureModes": [
+      "Large articulated arms can require rear space that a wall-adjacent desk does not have.",
+      "The heavy mount can concentrate substantial load on a shallow or lightweight desktop.",
+      "No independently accessible official AVLT product page was found to corroborate the exact variant and ongoing support details."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 8,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 3,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. The exact Amazon identity is clear, but a 44 lb-per-arm heavy-duty mount does not solve the ordinary dual-27 shallow-wall problem, the rear envelope remains unknown, and no independently accessible official manufacturer product page was found. Commercial value cannot rescue that mismatch.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  }
+]
