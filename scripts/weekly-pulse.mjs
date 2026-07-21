@@ -113,6 +113,13 @@ async function inspectRemoteCatalog() {
 }
 
 const remoteCatalog = await inspectRemoteCatalog();
+const productSyncResult = process.env.PRODUCT_SYNC_RESULT || `catalog parity ${remoteCatalog.state}`;
+const releaseResult = {
+  commit: process.env.RELEASE_COMMIT || git(["rev-parse", "--short", "HEAD"]) || "unavailable",
+  push: process.env.RELEASE_PUSH_RESULT || "not recorded",
+  deploy: process.env.RELEASE_DEPLOY_RESULT || "not recorded",
+  liveVerify: process.env.RELEASE_LIVE_VERIFY_RESULT || "not recorded",
+};
 
 const report = [
   "# Deskfit Weekly Affiliate Pulse",
@@ -134,6 +141,7 @@ const report = [
   `- Last product catalog update: ${lastCatalogUpdate}`,
   `- Supabase product rows for this site: ${remoteCatalog.count}`,
   `- Catalog sync state: ${remoteCatalog.state}`,
+  `- Product sync result: ${productSyncResult}`,
   ...(productsAdded.length
     ? productsAdded.map((product) => `- Added product: ${product.asin} — ${product.name}`)
     : ["- Added products: none"]),
@@ -152,6 +160,9 @@ const report = [
   ...(approvedAwaitingActivation.length
     ? approvedAwaitingActivation.map((candidate) => `- Awaiting activation: ${candidate.asin} — ${candidate.productName} — best for ${candidate.bestFor}`)
     : ["- Awaiting activation: none"]),
+  ...(activatedCandidates.length
+    ? activatedCandidates.map((candidate) => `- Activated candidate: ${candidate.asin} — ${candidate.productName} — ${candidate.activation.guidePath}`)
+    : ["- Activated candidates: none"]),
   "",
   "## Guides live",
   ...guidePages.map((slug) => `- /guides/${slug}/`),
@@ -161,6 +172,12 @@ const report = [
   "",
   "## Next recommended SEO action",
   "- Build the office chair and monitor-arm clusters, then watch outbound clicks by guide type.",
+  "",
+  "## Release result",
+  `- Content commit: ${releaseResult.commit}`,
+  `- Git push: ${releaseResult.push}`,
+  `- Production deploy: ${releaseResult.deploy}`,
+  `- Live verification: ${releaseResult.liveVerify}`,
   "",
   "## Recent blockers",
   "- Search Console metrics are not included until GSC is configured for this production domain.",

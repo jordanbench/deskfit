@@ -77,9 +77,9 @@
     "decision": "approve",
     "decisionReason": "Approve for the constraint slot. The exact variant and limits are verified, the official safety search has no exact-model match, and the unusually important 2-inch clamp-plate requirement is documented. It improves the guide by giving shallow-desk readers a measurable set-and-forget option rather than another generic adjustable arm.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/best-monitor-arms-dual-27/"
     },
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
