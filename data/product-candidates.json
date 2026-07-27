@@ -520,5 +520,509 @@
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
     "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "deskfit:B0967VHC2P",
+    "siteId": "deskfit",
+    "productName": "MOFT Adhesive Laptop Stand",
+    "model": "MS006",
+    "variant": "Jet Black adhesive version, two viewing angles, for 11-16 inch laptops",
+    "asin": "B0967VHC2P",
+    "affiliateUrl": "https://www.amazon.com/dp/B0967VHC2P/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "constraint",
+    "bestFor": "A vent-free laptop whose owner values an always-attached, nearly flat stand more than neutral wrist position or maximum stability.",
+    "skipIf": "The laptop has bottom intake vents, the owner prefers a flat keyboard, or adhesive-backed accessories are not acceptable.",
+    "mainTradeoff": "It adds almost no bag bulk, but the attached design can block vents and independent testing found the keyboard angle harder on the wrists.",
+    "closestAlternative": "ivoler AMUSA20710001 for a separate six-angle stand that packs narrow and leaves the laptop underside unobstructed.",
+    "editorialThesis": "The MOFT solves the carry-volume problem unusually well, but its vent restrictions and typing-angle penalty make it too conditional for a no-external-keyboard student recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0967VHC2P",
+        "note": "Verified specification and identity: the current U.S. listing maps ASIN B0967VHC2P to the black adhesive MOFT laptop stand for 11-16 inch laptops with two viewing angles.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.moft.com/products/moft-stand-adhesive",
+        "note": "Manufacturer specification: the current product page identifies model MS006 and the Jet Black adhesive variant; these are manufacturer claims, not hands-on findings.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.imore.com/moft-invisible-laptop-stand-review",
+        "note": "Independent hands-on review pattern: the stand is exceptionally easy to carry, but direct typing felt harder because of the slant and caused more wrist discomfort; the review also warns against covering bottom vents.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for MOFT MS006 and B0967VHC2P; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact black adhesive variant, model family, ASIN, and canonical affiliate URL are verified.",
+      "The always-attached three-millimeter form directly addresses backpack space and forgotten-accessory risk.",
+      "Two fixed angles offer a faster daily reset than multi-hinge stands."
+    ],
+    "failureModes": [
+      "The adhesive panel can obstruct bottom intake vents or conflict with laptop feet and service labels.",
+      "The inclined keyboard can increase wrist extension during longer direct-typing sessions.",
+      "Using the laptop flat with the stand attached can introduce wobble, and repeated removal adds adhesive wear."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 12,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 3,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 57
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 57. The exact product is exceptionally packable and well documented, but its own vent restriction and the independent direct-typing wrist penalty conflict with a broadly useful no-external-keyboard recommendation. Portability cannot rescue that fit problem.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B01C9KG8IG",
+    "siteId": "deskfit",
+    "productName": "Roost V3 Laptop Stand",
+    "model": "Roost V3",
+    "variant": "Black folding stand, seven height settings, 6.5-12.5 inch screen lift",
+    "asin": "B01C9KG8IG",
+    "affiliateUrl": "https://www.amazon.com/dp/B01C9KG8IG/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "compatibility",
+    "bestFor": "A mobile workstation whose owner already carries a separate keyboard and mouse and wants eye-level screen height from a six-ounce stand.",
+    "skipIf": "The laptop keyboard and trackpad must remain the primary input devices or the study surface cannot also hold separate peripherals.",
+    "mainTradeoff": "It is unusually light and compact for an eye-level stand, but its minimum lift makes direct laptop-keyboard use impractical.",
+    "closestAlternative": "ivoler AMUSA20710001 at a low angle when direct typing matters more than eye-level screen lift.",
+    "editorialThesis": "Roost is a strong travel workstation component, but it answers a different problem: portable eye-level display height for people already committed to external input devices.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01C9KG8IG",
+        "note": "Verified specification and identity: the current U.S. listing names the Roost V3 adjustable portable laptop stand and retains ASIN B01C9KG8IG.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.therooststand.com/collections/roost-laptop-stand/products/roost-v3-roost-laptop-stand",
+        "note": "Manufacturer specification: Roost V3 weighs 6 ounces, folds to 1 by 1.5 by 13 inches, and offers seven settings with 6.5-12.5 inches of lift; these are manufacturer claims.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.packhacker.com/travel-gear/roost/v3-laptop-stand/",
+        "note": "Independent hands-on review: the folding structure is highly packable and held a 16-inch MacBook Pro, but the elevated position necessitates a separate keyboard and mouse and crowds small public tables.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/onebag/comments/z9z1ef/roost_v3_stand_and_16_inch_macbook_pro/",
+        "note": "Owner-reported exact-model limitation: height adjustment requires removing the laptop; this is anecdotal but relevant to repeated library and classroom resets.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for Roost V3 and B01C9KG8IG; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact current U.S. ASIN and V3 identity are verified across Amazon and the manufacturer.",
+      "Six-ounce weight and narrow folded profile are unusually strong for daily carry.",
+      "Independent testing supports the self-locking structure, rubberized grips, and 16-inch laptop compatibility."
+    ],
+    "failureModes": [
+      "The laptop keyboard is too high for the selected direct-typing routine.",
+      "A separate keyboard and mouse consume bag volume and shared-table depth.",
+      "Changing height requires removing the laptop, adding friction to quick transitions."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 6,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 5,
+      "demandSignal": 3,
+      "commercialValue": 3,
+      "total": 59
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 59 for this reader problem. Roost has excellent evidence and carry weight, but both the manufacturer geometry and independent use pattern make a separate keyboard and mouse part of the setup. That directly violates the no-extra-input-device constraint.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B0B7GXDPXL",
+    "siteId": "deskfit",
+    "productName": "Twelve South Curve Flex",
+    "model": "TS-2202",
+    "variant": "Matte White adjustable aluminum stand with travel sleeve, up to 7 lb laptops",
+    "asin": "B0B7GXDPXL",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B7GXDPXL/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A student with a roomy backpack who accepts a 1.75-pound stand to get stable direct typing, broad angle adjustment, and a protective travel sleeve.",
+    "skipIf": "Every pound and square inch in the backpack matters, the laptop exceeds 7 pounds, or the owner will not carry the included hex tool for hinge maintenance.",
+    "mainTradeoff": "It supports usable direct typing and folds flat, but at 10.4 by 8.8 inches and 1.75 pounds it is much closer to a portable desktop stand than a minimal daily-carry riser.",
+    "closestAlternative": "ivoler AMUSA20710001 for a far narrower, lighter carry profile if its missing first-party model documentation can be resolved.",
+    "editorialThesis": "Curve Flex is the best-documented premium direct-typing compromise in this run, but its backpack burden is too material to approve for daily campus carry without stronger reader-fit evidence.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B7GXDPXL",
+        "note": "Verified specification and identity: the current U.S. listing maps ASIN B0B7GXDPXL to the matte-white Twelve South Curve Flex adjustable stand.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.twelvesouth.com/products/curve-flex-for-macbook",
+        "note": "Manufacturer specification: Curve Flex weighs 1.75 pounds, folds to 10.4 by 8.8 by 1.18 inches, supports laptops at least 8.66 inches wide and up to 7 pounds, and includes a sleeve and hinge tool.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/best-picks/best-laptop-stands-in-month-year-our-top-picks",
+        "note": "Independent hands-on testing: direct typing at a moderate angle was close to the reviewer's baseline speed, but the hinges initially sagged until tightened and the laptop could move over the shallow front lip when bumped.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://forums.macrumors.com/threads/twelve-south-curve-flex-stand.2370508/",
+        "note": "Owner-reported exact-product discussion supports travel use while reinforcing that hinge tension and the larger folded plate shape are part of ownership.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for Twelve South Curve Flex, TS-2202, and B0B7GXDPXL; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact matte-white Amazon variant and official TS-2202 product family are verified.",
+      "Independent direct-typing results support a useful low-to-mid-height mode without a separate keyboard.",
+      "Manufacturer support, one-year warranty, included sleeve, and serviceable hinges support longer ownership."
+    ],
+    "failureModes": [
+      "The 1.75-pound, near-laptop-size folded stand can become a meaningful daily backpack burden.",
+      "Loose hinges can sag until tightened with the included tool.",
+      "The front lips and silicone grip did not fully prevent a laptop from moving when bumped in independent testing."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 2,
+      "commercialValue": 2,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. Curve Flex has complete exact-product evidence and credible direct-typing performance, but its 1.75-pound, 10.4-by-8.8-inch folded body is a major unresolved fit question for daily student carry. It should not be promoted as backpack-friendly merely because it folds.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B07WBYCTNX",
+    "siteId": "deskfit",
+    "productName": "ivoler Six-Angle Laptop Stand",
+    "model": "AMUSA20710001",
+    "variant": "A-Silver aluminum folding stand, six height settings, for 10-15.6 inch laptops and tablets",
+    "asin": "B07WBYCTNX",
+    "affiliateUrl": "https://www.amazon.com/dp/B07WBYCTNX/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "default",
+    "bestFor": "A 13-15.6-inch laptop user who wants a narrow folding stand, a low direct-typing angle, and a separate pouch that fits beside the laptop.",
+    "skipIf": "The laptop is larger than 15.6 inches, has underside vents that align poorly with the two rails, or the buyer requires current first-party documentation before purchase.",
+    "mainTradeoff": "The carry profile and tested low-angle typing fit are strong, but no current official ivoler page or official manual for exact model AMUSA20710001 was accessible.",
+    "closestAlternative": "Twelve South Curve Flex TS-2202 for complete first-party support and a broader platform if the extra weight and folded footprint are acceptable.",
+    "editorialThesis": "This is the best physical fit found for the selected routine, but the missing first-party exact-model source prevents approval even though the Amazon identity and independent typing evidence are unusually clear.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07WBYCTNX",
+        "note": "Verified specification and identity: the current U.S. listing maps ASIN B07WBYCTNX to the A-Silver ivoler six-angle folding stand for 10-15.6 inch laptops.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/best-picks/best-laptop-stands-in-month-year-our-top-picks",
+        "note": "Independent hands-on test: at the third-lowest setting, typing speed matched the flat-desk baseline with almost no bounce; higher settings increased wrist strain.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/161017100",
+        "note": "Current owner-reported pattern for exact model AMUSA20710001: recent buyers describe easy backpack carry and stable use with a 16-inch MacBook Pro, but this marketplace mirror is not a substitute for an official manufacturer source.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for ivoler AMUSA20710001 and B07WBYCTNX; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact A-Silver listing, model number, ASIN, narrow folded dimensions, and canonical affiliate URL are verified.",
+      "Independent testing directly covers laptop-keyboard typing at multiple settings.",
+      "Six discrete rail positions provide repeatable low-angle setup without hinge tools."
+    ],
+    "failureModes": [
+      "No current official manufacturer page or official manual was accessible for exact model AMUSA20710001.",
+      "Higher positions create substantial wrist extension even when the stand remains mechanically stable.",
+      "The 15.6-inch listing ceiling and two-rail footprint require careful laptop-size and vent-layout checks."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 73
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 73. This is the strongest fit for a student who types directly on the laptop and packs the stand daily, but the exact model lacks an accessible current manufacturer page or official manual. Independent performance cannot substitute for the required first-party evidence.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B08M94BTYC",
+    "siteId": "deskfit",
+    "productName": "Lamicall Adjustable Laptop Stand",
+    "model": "LN09-Silver",
+    "variant": "Silver full-platform aluminum folding stand for 10-17.3 inch laptops",
+    "asin": "B08M94BTYC",
+    "affiliateUrl": "https://www.amazon.com/dp/B08M94BTYC/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "other",
+    "bestFor": "A mostly stationary dorm or shared-table setup where a broad platform and stiff hinges matter more than daily backpack weight.",
+    "skipIf": "The stand must ride in a backpack every day or the user expects one-handed height changes between classes.",
+    "mainTradeoff": "The broad platform is stable for typing, but its roughly laptop-size folded body and stiff dual hinges add weight and reset friction.",
+    "closestAlternative": "Twelve South Curve Flex for a documented travel sleeve and stronger service story, or ivoler AMUSA20710001 for a much narrower carry profile.",
+    "editorialThesis": "LN09 is a well-supported desk stand that happens to fold; it does not offer enough carry advantage to earn a place in a daily-campus recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08M94BTYC",
+        "note": "Verified specification and identity: the current U.S. listing maps ASIN B08M94BTYC to the silver Lamicall adjustable laptop stand for 10-17.3 inch laptops.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://lamicallshop.com/products/adjustable-aluminum-laptop-stand",
+        "note": "Manufacturer specification: the silver variant is model LN09-Silver, uses a full aluminum platform with reinforced hinges, supports 10-17.3 inch laptops, and includes a user manual.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/best-picks/best-laptop-stands-in-month-year-our-top-picks",
+        "note": "Independent hands-on testing supports stable direct typing at low-to-medium settings and broad ventilation, while noting that taller settings progressively worsen keyboard angle.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://lamicallshop.com/products/adjustable-aluminum-laptop-stand",
+        "note": "Manufacturer-hosted owner pattern: current reviews repeatedly describe the exact LN09 platform as stable but requiring force to adjust; this is lower-confidence than an independent owner forum.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for Lamicall LN09, LN09-Silver, and B08M94BTYC; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact silver Amazon variant and official LN09-Silver model are verified.",
+      "Broad platform, reinforced hinges, and large laptop compatibility support stable desk use.",
+      "Current manufacturer support and one-year warranty reduce ownership uncertainty."
+    ],
+    "failureModes": [
+      "The full-platform Z shape occupies roughly laptop-size space when folded and adds meaningful backpack weight.",
+      "Stiff hinges make quick between-class adjustments a two-handed, higher-friction task.",
+      "Higher screen positions steepen the built-in keyboard and increase wrist extension."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 11,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 5,
+      "demandSignal": 1,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 58. LN09 is a credible stationary stand, but its broad, heavier Z-platform design does not solve daily campus carry better than the current shortlist and does not create a distinct decision slot. Strong documentation cannot rescue the reader-fit and redundancy problems.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B01HHYQBB8",
+    "siteId": "deskfit",
+    "productName": "Nexstand K2 Laptop Stand",
+    "model": "K2",
+    "variant": "Black glass-fiber reinforced nylon folding stand with eight height settings",
+    "asin": "B01HHYQBB8",
+    "affiliateUrl": "https://www.amazon.com/dp/B01HHYQBB8/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Carry a 13-16-inch laptop between a dorm, class, and library and type on the laptop keyboard without hauling a separate keyboard or a bulky stand.",
+    "decisionSlot": "budget",
+    "bestFor": "A traveler who already carries a keyboard and mouse and can buy from a currently supported non-U.S. listing.",
+    "skipIf": "A working current Amazon.com detail page is required or the laptop keyboard must remain the primary input device.",
+    "mainTradeoff": "The stand is light and narrow, but it raises the keyboard too high for the selected routine and the exact U.S. Amazon detail page did not resolve during this run.",
+    "closestAlternative": "Roost V3 for a currently resolvable U.S. listing and stronger manufacturer support, though it has the same external-keyboard dependency.",
+    "editorialThesis": "K2 cannot enter the U.S. shortlist while its exact Amazon.com listing is unavailable, and even a restored listing would not solve direct typing without peripherals.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01HHYQBB8",
+        "note": "Evidence blocker: the canonical U.S. Amazon detail URL for ASIN B01HHYQBB8 returned an error during repeated checks, so a current U.S. offer and exact live variant could not be verified.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://nexstand.io/",
+        "note": "Manufacturer specification: the current brand page identifies the K2 portable adjustable stand, but it does not repair the unavailable U.S. Amazon detail page.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/A1oBA9VvhJL.pdf",
+        "note": "Amazon-hosted K2 manual confirms the eight-position folding structure and setup, but it is supporting identity evidence rather than proof of a current U.S. listing.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://packhacker.com/travel-gear/nexstand/k2-laptop-stand/",
+        "note": "Independent hands-on review supports compact packing and easy adjustment; its eye-level design is intended for use with separate input devices rather than direct typing.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls",
+        "note": "Official safety check: the CPSC recall database was searched for Nexstand K2 and B01HHYQBB8; no exact product match was found as of the check date.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "K2 model identity and folding design are corroborated by the manufacturer, manual, and independent review.",
+      "Narrow folded profile and low material weight suit travel.",
+      "Eight fixed positions make the chosen eye-level height repeatable."
+    ],
+    "failureModes": [
+      "The current U.S. Amazon listing could not be verified, so the canonical affiliate destination is not dependable.",
+      "The raised laptop keyboard is incompatible with comfortable direct typing.",
+      "Plastic clips and contact pads are ownership wear points noted in current owner reports."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 6,
+      "evidenceConfidence": 9,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 2,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 37
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 37. The exact U.S. Amazon listing is unavailable, so current ASIN and affiliate-destination verification fails. Separately, K2 requires the same external-keyboard setup that the selected reader is trying to avoid.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
   }
 ]
