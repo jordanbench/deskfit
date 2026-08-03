@@ -1024,5 +1024,533 @@
     "sourceRun": "product-discovery:2026-07-27",
     "researchedAt": "2026-07-27",
     "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "deskfit:B078HG8HWF",
+    "siteId": "deskfit",
+    "productName": "Steelcase Series 1 Office Chair",
+    "model": "435A00-5T21-5S26-6205-4ARM-LUM-CC",
+    "variant": "Licorice 3D Microknit back and seat, graphite frame, lumbar support, 4D arms, carpet casters",
+    "asin": "B078HG8HWF",
+    "affiliateUrl": "https://www.amazon.com/dp/B078HG8HWF/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A shorter-to-average user whose measured chair fit falls inside the Series 1 seat-height and seat-depth ranges and who needs arm pads that move inward and retract for close desk access.",
+    "skipIf": "The buyer needs a currently featured Amazon offer, a plush seat, or cannot confirm that the exact 4ARM configuration and its 16.5-inch minimum seat height fit their measurements.",
+    "mainTradeoff": "The compact seat and broad adjustment range suit this problem, but the exact Amazon page currently has no featured offer and describes 4D arms as optional even though the part number contains 4ARM.",
+    "closestAlternative": "HON Ignition 2.0 B06Y3PGPR2 when a larger padded seat and height-and-width arm adjustment matter more than compact proportions.",
+    "editorialThesis": "Series 1 is the strongest measured-fit candidate in this run, but Deskfit should not activate it until the exact Amazon configuration has a current featured offer and the included arm package is unambiguous on the listing.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B078HG8HWF",
+        "note": "Verified identity: the current page maps ASIN B078HG8HWF to Steelcase Series 1 model 435A00-5T21-5S26-6205-4ARM-LUM-CC in Licorice with carpet casters. Evidence blockers: the page shows no featured offer and calls 4D arms optional despite 4ARM in the exact part number.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.steelcase.com/products/office-chairs/steelcase-series-1/",
+        "note": "Manufacturer claims: Series 1 has height- and depth-adjustable seating, standard 4D arm support on the current product presentation, adjustable lumbar support, compact space efficiency, and a long service-parts and warranty program. Configuration options still vary by exact order code.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.steelcase.com/content/uploads/2017/06/steelcaseseries1cutsheet.pdf",
+        "note": "Official cut sheet documents Series 1 seat-depth adjustment, 4D arm movement, adjustable lumbar support, and the product-family controls. It supports the model family but does not resolve the current Amazon offer state.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://thefurnishedreview.com/reviews/steelcase-series-1-chair-review",
+        "note": "Current independent summary of owner reports says shorter owners tend to fit Series 1 better, while recurring caveats include a firm seat and arm-configuration differences. This is summarized owner evidence, not Deskfit hands-on testing.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Steelcase",
+        "note": "Official CPSC recall API check returned Steelcase recalls for Rocky, Amia, and Cachet chairs; Series 1, model 435A00-5T21-5S26-6205-4ARM-LUM-CC, and B078HG8HWF were not named.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2016/Steelcase-Recalls-Chairs",
+        "note": "Official brand-level cross-check: the 2016 Steelcase recall covers 12 Rocky-style swivel-chair models, not Series 1. A no-match is a dated database result, not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, configuration code, Licorice color, 4ARM marker, lumbar marker, and caster type are visible on the current Amazon page.",
+      "Official Series 1 evidence supports adjustable seat depth and multi-direction arm movement that directly address short-thigh fit and close desk reach.",
+      "Current owner-pattern evidence consistently frames the compact seat as better for shorter users than for taller or broader users."
+    ],
+    "failureModes": [
+      "A buyer can land on a different Series 1 arm or back configuration because the family has several option combinations.",
+      "The current Amazon page has no featured offer, so an activation could create a weak shopping destination even though the detail page resolves.",
+      "A firm, compact seat can become uncomfortable for users who need more padding or lateral room."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 15,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 3,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 74
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 74. The exact model and measured adjustment story are the best fit in this run, but the Amazon page currently has no featured offer and is internally unclear about whether the exact listing includes 4D arms. Those are activation blockers, not details to infer from the product family.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B06Y3PGPR2",
+    "siteId": "deskfit",
+    "productName": "HON Ignition 2.0 Mesh Mid-Back Office Chair",
+    "model": "HONI2MM2AMC10BT",
+    "variant": "Black mesh mid-back, black frame, advanced tilt, adjustable lumbar, height-and-width adjustable arms",
+    "asin": "B06Y3PGPR2",
+    "affiliateUrl": "https://www.amazon.com/dp/B06Y3PGPR2/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "default",
+    "bestFor": "A user who measures at least roughly 17 inches from floor to supported seat height and wants a padded seat plus height-and-width arm adjustment for a fixed desk.",
+    "skipIf": "The buyer needs a currently featured Amazon offer, needs arm pads to retract front-to-back, or cannot keep both feet supported at the chair's minimum measured height.",
+    "mainTradeoff": "The broad padded seat and durable commercial design are well documented, but its minimum height is higher than Series 1 and the arms do not provide the same depth retraction.",
+    "closestAlternative": "Steelcase Series 1 B078HG8HWF for a lower minimum seat height, adjustable seat depth, and more complete arm movement if the exact configuration becomes purchasable.",
+    "editorialThesis": "Ignition 2.0 is a credible measured-fit default for some shorter users, but the current no-featured-offer state and less retractable arm geometry prevent a general short-user recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B06Y3PGPR2",
+        "note": "Verified identity: ASIN B06Y3PGPR2 resolves to HON Ignition 2.0 retail model HONI2MM2AMC10BT, black frame with advanced tilt, adjustable lumbar, and height-and-width adjustable arms. Evidence blocker: the current page shows no featured offer.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.hon.com/chairs/ignition/hiwmmkdy2ahimcu10alsbt",
+        "note": "Exact manufacturer configuration HIWMMKD.Y2.A.H.IM.CU10.AL.SB.T confirms black mesh mid-back, black seat fabric and frame, advanced synchro-tilt, adjustable lumbar, seat height, and height-and-width adjustable arms. HON tells buyers to validate ordering information.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.hon.com/sites/hon.com/files/hon-january-2018-seating-pricer.pdf",
+        "note": "Official HON dimensional reference for HIWMMKD documents a roughly 16.4-21.25 inch family seat-height range and 17.75 inch usable depth before control-specific differences; the current exact product page is authoritative for configuration, and the older dimensional sheet is used cautiously.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/reviews/hon-ignition-2-0",
+        "note": "Independent hands-on review supports the adjustable seat depth, lumbar support, and simple assembly, while treating comfort as configuration- and body-dependent. This is not Deskfit hands-on evidence.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=HON",
+        "note": "Official CPSC recall API search returned a 2020 HON office-chair recall, but its description names Gateway HGTMM/HGV1MM and Maxon M-SEMO201/M-SEMX101 models; Ignition 2.0, HIWMMKD, HONI2MM2AMC10BT, and B06Y3PGPR2 were not named.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recalls/2020/HON-Recalls-Office-Chairs-Due-to-Fall-Hazard",
+        "note": "Official model exclusion: the HON recall is for named Gateway and Maxon chairs, not Ignition 2.0. A dated no-match does not certify the chair as risk-free.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Current Amazon and exact manufacturer pages agree on the black mesh Ignition 2.0 identity and principal adjustment package.",
+      "Height-and-width adjustable arms can reduce shoulder elevation and accommodate more desk widths than fixed arms.",
+      "Commercial warranty and current independent testing provide a stronger ownership story than the lesser-documented budget chairs in this run."
+    ],
+    "failureModes": [
+      "The minimum seat height can still leave a shorter user's feet unsupported when the desk forces the chair higher.",
+      "Arms adjust in height and width but do not retract in depth like Series 1 4D arms, so some desk edges can still block close reach.",
+      "The current Amazon page lacks a featured offer, making the affiliate destination unsuitable for activation now."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 4,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. The exact chair and adjustment package are well supported, but the higher minimum fit than Series 1, limited arm-depth movement, and current lack of a featured Amazon offer keep it from becoming a short-user default.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B07H9YLLNG",
+    "siteId": "deskfit",
+    "productName": "CLATINA Mellet Ergonomic Office Chair",
+    "model": "247",
+    "variant": "Black fabric back and seat, one chair, no headrest, 3D arms and adjustable lumbar",
+    "asin": "B07H9YLLNG",
+    "affiliateUrl": "https://www.amazon.com/dp/B07H9YLLNG/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "budget",
+    "bestFor": "A measured user who wants unusual seat-depth and 3D-arm adjustment in a padded budget chair and does not need a headrest.",
+    "skipIf": "The buyer has very short thighs, needs an active featured Amazon offer, or expects the arm pads to move with the backrest during recline.",
+    "mainTradeoff": "The adjustment range is unusually broad for the class, but owner reports conflict on short-leg fit and the exact no-headrest Amazon variant currently has no featured offer.",
+    "closestAlternative": "HON Ignition 2.0 B06Y3PGPR2 for stronger current manufacturer support and commercial warranty evidence, subject to its higher minimum height and offer blocker.",
+    "editorialThesis": "Mellet's seat slider and 3D arms look relevant on paper, but conflicting short-leg reports and a dead current offer path make it a poor candidate for an evidence-backed short-user slot.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07H9YLLNG",
+        "note": "Verified identity: ASIN B07H9YLLNG is CLATINA Mellet model 247, black fabric, one pack, no headrest, with seat-depth, lumbar, and 3D-arm adjustment. Evidence blocker: the exact page currently has no featured offer.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://images.thdstatic.com/catalog/pdfImages/df/dfabfd02-6e3a-4bf7-aeff-2a61ced86dcd.pdf",
+        "note": "Exact model-247 instructions document seat depth, arm, lumbar, height, and recline controls plus a 275 lb maximum load. These are official product instructions hosted by Home Depot, not hands-on findings.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/OfficeChairs/comments/17qsl78/just_received_and_set_up_a_clatina_mellet_initial/",
+        "note": "Owner-reported pattern: the seat-depth control is useful, but an exact-chair owner cautioned that the chair is not a good fit for very short legs and described a firm seat. This is anecdotal, not controlled testing.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/OfficeChairs/comments/1rx0jki/colamy_atlasclatina_mellet_for_short_people/",
+        "note": "Current owner-shopping discussion reports mixed fit for a 163 cm user and uncertainty around Mellet headrest and seat-height fit. The selected ASIN has no headrest, but the conflicting short-user pattern remains relevant.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=CLATINA",
+        "note": "Official CPSC recall API search returned no CLATINA recalls; model 247, Mellet, and B07H9YLLNG had no exact match as of the check date. This is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, model 247, black-fabric material, pack count, and no-headrest choice are verified.",
+      "Seat-depth, lumbar, and 3D-arm adjustments target the three fit variables in the reader problem.",
+      "The official manual provides specific control and load-limit instructions."
+    ],
+    "failureModes": [
+      "The exact Amazon variant currently lacks a featured offer.",
+      "Short-legged owners report that the seat can still feel too deep or firm even with its adjustment.",
+      "Arm pads do not move with the backrest during recline and may require readjustment after posture changes."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 16,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 6,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 58. The controls look relevant, but the exact variant has no featured Amazon offer and current owner evidence does not support a dependable short-leg fit. It does not earn a distinct budget slot over the better-documented held chairs.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B08LBJXVSP",
+    "siteId": "deskfit",
+    "productName": "Ticova Ergonomic Office Chair",
+    "model": "C9",
+    "variant": "Black high-back mesh chair, 3D arms, adjustable lumbar and headrest, 130-degree rocking",
+    "asin": "B08LBJXVSP",
+    "affiliateUrl": "https://www.amazon.com/dp/B08LBJXVSP/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "other",
+    "bestFor": "A user who values adjustable lumbar and rotating arm pads more than adjustable seat depth and can test the exact chair fit in person.",
+    "skipIf": "The buyer has short thighs, needs a live featured Amazon offer, or requires a single unambiguous manufacturer model identity.",
+    "mainTradeoff": "It offers many visible adjustments, but the seat depth is fixed, the Amazon record mixes model C9 with manufacturer part M8, and the current listing has no featured offer.",
+    "closestAlternative": "CLATINA Mellet B07H9YLLNG for an actual seat-depth control, though that exact variant also fails the current offer and short-user evidence gates.",
+    "editorialThesis": "A long feature list cannot rescue fixed seat depth, an unresolved C9-versus-M8 identity conflict, and a non-purchasable exact offer for a reader whose recommendation depends on precise fit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08LBJXVSP",
+        "note": "Identity conflict: the exact page calls the chair model C9 but lists manufacturer part M8. The black high-back chair has adjustable lumbar, headrest, and 3D arms but no seat-depth control. Evidence blocker: no featured offer is available.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ticovachair.com/",
+        "note": "The brand product page supports the general adjustable lumbar, 3D-arm, foam-seat, mesh-back design, but it does not publish an exact C9-to-B08LBJXVSP identity mapping or a fit-oriented dimensional table.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://homereviewer.blog/ticova-ergonomic-office-chair-review/",
+        "note": "Current independent review identifies fixed seat depth as the main short-leg limitation. It is secondary editorial evidence and not a substitute for an exact manufacturer dimensional sheet.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/OfficeChairs/comments/1uutxsr/ticova_or_ikea_markus_as_a_main_office_work_chair/",
+        "note": "Current owner discussion describes Ticova's seat cushion as a durability concern while acknowledging its broad adjustment set. This is anecdotal owner evidence.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Ticova",
+        "note": "Official CPSC recall API search returned no Ticova recalls; C9, M8, and B08LBJXVSP had no exact match as of the check date. This does not resolve the identity conflict or certify safety.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The exact ASIN and black high-back feature bundle are visible on the current Amazon page.",
+      "Lumbar, headrest, height, recline, and multi-direction arm adjustments cover several common workstation fit variables.",
+      "The current listing includes a 30-day Amazon return statement even though no featured offer is presently shown."
+    ],
+    "failureModes": [
+      "Fixed seat depth can press behind the knees of shorter users.",
+      "C9 and M8 identifiers conflict on the same exact listing, weakening replacement-part and support confidence.",
+      "The exact Amazon page has no featured offer, so the affiliate destination is not ready for activation."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 10,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 6,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 45
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 45. Fixed seat depth conflicts with the selected reader, the exact page mixes C9 and M8 identifiers, and there is no featured Amazon offer. Adjustment count and commercial interest cannot repair those recommendation failures.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B003G4OJK4",
+    "siteId": "deskfit",
+    "productName": "Alera Elusion Series Mesh Mid-Back Multifunction Chair",
+    "model": "ALEEL42ME10B",
+    "variant": "Black mesh mid-back, premium fabric seat, multifunction tilt, height-and-width adjustable arms",
+    "asin": "B003G4OJK4",
+    "affiliateUrl": "https://www.amazon.com/dp/B003G4OJK4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "maintenance",
+    "bestFor": "An existing owner who needs to identify the exact ALEEL42ME10B controls or compare replacement timing, not a new short-user buyer.",
+    "skipIf": "This is a new purchase, the buyer has short thighs, or a live supported product and featured Amazon offer are required.",
+    "mainTradeoff": "It has a seat glide and adjustable arms, but current exact-product evidence shows a deep seat, a relatively high minimum seat height, discontinued status, and no featured Amazon offer.",
+    "closestAlternative": "Steelcase Series 1 B078HG8HWF for a lower minimum seat height, shallower adjustable seat, and better long-term support evidence if its offer gate clears.",
+    "editorialThesis": "A discontinued, deep-seat model is a maintenance reference rather than a new recommendation for shorter users, regardless of how many tilt controls it includes.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B003G4OJK4",
+        "note": "Verified identity: ASIN B003G4OJK4 resolves to Alera Elusion ALEEL42ME10B, black mid-back with multifunction seat glide and height-and-width adjustable arms. Evidence blocker: no featured offer is available.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www2.ecinteractiveplus.com/1079/Product/ALE/EL42ME10B/ALEEL42ME10B",
+        "note": "Alera-branded exact product catalog confirms ALEEL42ME10B, black, 17.7-21.4 inch seat height, adjustable arms, and the Elusion mid-back multifunction identity.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.grainger.com/product/ALERA-Office-Chair-Alera-Elusion-816M97",
+        "note": "Current independent distributor record identifies the exact model as discontinued and lists a 17.75-inch minimum seat height and 21.75-inch seat depth. This is product-status and specification evidence, not a hands-on comfort review.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Alera",
+        "note": "Official CPSC recall API search returned no Alera recalls; Elusion, ALEEL42ME10B, and B003G4OJK4 had no exact match as of the check date. A no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, Alera model number, black mid-back variant, and adjustment controls are verified.",
+      "Seat glide and height-and-width adjustable arms offer more tuning than fixed budget task chairs.",
+      "Current distributor evidence makes the discontinued status explicit rather than leaving support longevity to inference."
+    ],
+    "failureModes": [
+      "A 21.75-inch seat depth is a poor starting point for short thighs even with a seat glide.",
+      "The 17.75-inch minimum seat height can leave shorter users without stable floor contact.",
+      "Discontinued status and no featured Amazon offer weaken replacement, return, and long-term support confidence."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 8,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 3,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 42
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 42. The exact product is discontinued, has no featured Amazon offer, and starts from a deep, relatively high seat geometry that conflicts with the selected short-user problem.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B07BDFW1Y7",
+    "siteId": "deskfit",
+    "productName": "SIHOO M57 Ergonomic Mesh Office Chair",
+    "model": "M57",
+    "variant": "Black, pack of one, full mesh high back, 3D arms, adjustable headrest and lumbar",
+    "asin": "B07BDFW1Y7",
+    "affiliateUrl": "https://www.amazon.com/dp/B07BDFW1Y7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Fit a shorter remote worker at a compact fixed-height desk without leaving their feet unsupported, forcing an over-deep seat, or letting armrests block close keyboard reach.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An average-height or taller user who specifically wants full mesh, adjustable lumbar depth, and 3D arm pads and whose measured fit clears the M57 minimum height and fixed depth.",
+    "skipIf": "The buyer is shorter, needs the armrests to move inward toward a narrow torso, or needs a currently featured Amazon offer.",
+    "mainTradeoff": "The mesh and lumbar controls are well documented, but the 18.11-inch minimum seat height and fixed 18.11-inch depth are weak for this reader, and current owner reports flag arm-width fit.",
+    "closestAlternative": "Steelcase Series 1 B078HG8HWF for lower and shallower measured fit with arms that adjust in width and depth, subject to its own current offer gate.",
+    "editorialThesis": "M57 is a current, identifiable mesh chair, but its geometry and inward-arm limitation solve a different body-fit problem than the one selected for this run.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07BDFW1Y7",
+        "note": "Verified identity: ASIN B07BDFW1Y7 is SIHOO M57, black, pack of one, full mesh with 3D arms, headrest, and adjustable lumbar. Evidence blocker: the exact page currently has no featured offer.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.sihoo.com/products/m57-ergonomic-chair",
+        "note": "Manufacturer specification: M57 has a fixed 18.11-inch seat depth and published seat-height range beginning around 18.11 inches, plus 3D arms and adjustable lumbar support. These dimensions are the key fit gate.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/A1Uc9KENHSL.pdf",
+        "note": "Official M57-series manual documents assembly, height, arm, headrest, lumbar, and recline controls plus one-person use and load cautions.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techradar.com/reviews/sihoo-m57-review-functional-but-unspectacular",
+        "note": "Independent hands-on review found the chair only slightly better fitted to a 5-foot-8 colleague and not fully supportive, while confirming 3D arm movement and the firm mesh experience. This is not Deskfit hands-on testing.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/OfficeChairs/comments/1mfaf3g/sihoo_doro_c300_awesome_except/",
+        "note": "Current owner-reported pattern: a 5-foot-4 M57 owner says the arms do not move inward enough. This directly conflicts with the compact-torso reach problem but remains anecdotal.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=SIHOO",
+        "note": "Official CPSC recall API search returned no SIHOO recalls; M57 and B07BDFW1Y7 had no exact match as of the check date. This is a dated no-match, not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, M57 model, black color, pack count, mesh design, and main controls are verified across Amazon and SIHOO.",
+      "Official current dimensions make the seat-height and seat-depth limitations measurable before purchase.",
+      "Independent and owner evidence expose fit limitations rather than relying on feature-list marketing."
+    ],
+    "failureModes": [
+      "An 18.11-inch minimum seat height can leave shorter users' feet unsupported.",
+      "The fixed 18.11-inch seat depth can press behind shorter thighs.",
+      "Arm pads do not move inward enough for some shorter, narrower users, and the current Amazon page has no featured offer."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 12,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 3,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 52
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 52. Current exact-model evidence is comparatively strong, but the published minimum height and fixed depth plus the inward-arm owner pattern conflict with the short-user problem. A no-featured-offer listing makes activation inappropriate anyway.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
   }
 ]
