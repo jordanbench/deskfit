@@ -1,4 +1,90 @@
 {
-  "reviewedAt": null,
-  "products": []
+  "reviewedAt": "2026-08-06",
+  "products": [
+    {
+      "asin": "B01N2RJ0HI",
+      "status": "retire-review",
+      "reason": "The live Amazon ASIN now identifies a GTPLAYER gaming chair, not the cataloged ErGear dual monitor stand, so every linked guide sends readers to the wrong product and the claimed monitor-arm variant, manual, ownership pattern, and safety record cannot be tied to this ASIN. VIVO STAND-V002 already covers the valid fixed-pole dual-monitor slot; a separate evidence-gated candidate is required before restoring a general-value dual-arm slot.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01N2RJ0HI",
+        "https://uk.ergear.com/products/dual-monitor-mount-for-13-inch-to-32-inch-screens",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=ErGear",
+        "https://www.amazon.com/dp/B009S750LA"
+      ]
+    },
+    {
+      "asin": "B009S750LA",
+      "status": "refresh",
+      "reason": "The exact Amazon page, VIVO product page, and current manual still map B009S750LA to black STAND-V002 and support its distinct static dual-monitor role, with owner evidence reinforcing clamp-depth and possible sag/alignment cautions and no exact CPSC recall match. Keep it active, but refresh the evidence and offer-state wording because Amazon currently shows no featured offer even though VIVO lists the exact model in stock direct; no held replacement resolves the shallow-wall fit question more completely.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B009S750LA",
+        "https://vivo-us.com/products/stand-v002",
+        "https://cdn.shopify.com/s/files/1/1190/2562/files/STAND-V002_GY_W_REV2.3LF_online.pdf?v=1727697018",
+        "https://reddazon.com/listing/VIVO-Monitor-Adjustable-Screens-STAND-V002/dp/B009S750LA/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=VIVO"
+      ]
+    },
+    {
+      "asin": "B08B8X4KBV",
+      "status": "retire-review",
+      "reason": "The exact ASIN identifies an Invision MX450 single monitor arm and is out of stock on the current U.S. page, not the cataloged HUANUO product. That identity break makes the current guide name, manufacturer/manual evidence, and HUANUO failure or safety patterns inapplicable; a new exact HUANUO single-arm candidate must pass the registry before this useful starter-arm decision slot can be restored.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08B8X4KBV",
+        "https://www.huanuo.com/products/huanuo-single-monitor-mount-for-13-inch-to-32-inch-screens",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=HUANUO"
+      ]
+    },
+    {
+      "asin": "B08C2LC3H2",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN identifies TOPSKY DF02.01, a dual-motor standing-desk frame, not a Nulaxy laptop stand. Readers seeking a stationary budget riser are sent to the wrong category, and the cataloged stand has no exact variant, manual, owner-failure pattern, or safety record that can be verified against this ASIN; held portable-stand candidates solve a different routine and are not approved replacements.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08C2LC3H2",
+        "https://nulaxy.com/products/laptop-stand/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Nulaxy",
+        "https://www.twelvesouth.com/products/curve-flex-for-macbook"
+      ]
+    },
+    {
+      "asin": "B07Q3TCT4L",
+      "status": "retire-review",
+      "reason": "The active Amazon link returns Page Not Found, so it cannot verify or deliver the recommended BenQ ScreenBar. BenQ still documents the original ScreenBar and its manual, while owner reports show monitor-clamp, panel-pressure, and webcam-clearance fit risks and the current BenQ recall is for GV31 projectors rather than ScreenBar; however, the evidence-backed original Amazon ASIN B076VNFZJG is currently unavailable and must enter candidate review before replacement.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07Q3TCT4L",
+        "https://www.benq.com/en-us/lighting/monitor-light/screenbar.html",
+        "https://esupportdownload.benq.com/esupport/E-READING%20LAMP/UserManual/ScreenBar/ScreenBar_UM_DE_EN_ES_FR_IT_JA_KO_NL_SV_ZH-TW_230926111930.pdf",
+        "https://www.reddit.com/r/BenQ/comments/pqign8/benq_screenbar_compatibility/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=BenQ",
+        "https://www.amazon.com/dp/B076VNFZJG"
+      ]
+    },
+    {
+      "asin": "B0B1QJQX4W",
+      "status": "retire-review",
+      "reason": "The Amazon link returns Page Not Found and no exact Ticova model or manufacturer/manual mapping can be recovered for this ASIN, so the broad chair positioning lacks verifiable fit, durability, and safety evidence. The newer Ticova candidate is rejected for identity and offer blockers, while the better-fit Steelcase Series 1 and HON Ignition 2.0 candidates remain held without featured offers; no evidence-ready chair replacement exists yet.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B1QJQX4W",
+        "https://ticovachair.com/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Ticova",
+        "https://www.amazon.com/dp/B078HG8HWF",
+        "https://www.amazon.com/dp/B06Y3PGPR2"
+      ]
+    },
+    {
+      "asin": "B07H2W68N2",
+      "status": "retire-review",
+      "reason": "The Amazon link returns Page Not Found and the catalog supplies only the generic name J Channel Cable Raceway, with no manufacturer or exact model to anchor a manual, mounting limits, adhesive or fastener failure patterns, or an exact safety search. The cable-control decision slot remains useful, but it needs a newly researched exact candidate rather than continued recommendations through an unverifiable dead ASIN.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07H2W68N2",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=cable%20raceway"
+      ]
+    }
+  ]
 }
