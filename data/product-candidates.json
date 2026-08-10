@@ -1552,5 +1552,491 @@
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
     "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "deskfit:B00006I62X",
+    "siteId": "deskfit",
+    "productName": "Fellowes Standard Foot Rest",
+    "model": "48121",
+    "variant": "Graphite, single standard footrest, 3.75 x 17.63 x 13.13 inches, dual-position height",
+    "asin": "B00006I62X",
+    "affiliateUrl": "https://www.amazon.com/dp/B00006I62X/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "budget",
+    "bestFor": "A compact setup that needs a modest 3.5- or 4.375-inch lift and values a simple rocking platform over fine-grained adjustment.",
+    "skipIf": "The user needs more than roughly 4.4 inches of lift, a platform that locks at one angle, or quiet movement on a hard floor.",
+    "mainTradeoff": "Its small, simple footprint is practical, but there are only two low height positions and owner reports repeatedly mention sliding or plastic-on-plastic noise.",
+    "closestAlternative": "Kensington SoleMate Plus K52789WW for a wider adjustment range and a heavier base, if its larger footprint fits the desk bay.",
+    "editorialThesis": "This is a credible low-cost, modest-lift option, but it should not be presented as a universal short-user solution because its height range and free-floating motion are limited.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00006I62X",
+        "note": "Verified exact U.S. listing: ASIN B00006I62X is Fellowes model 48121, graphite, one Standard Foot Rest; the selected variant is 3.75 x 17.63 x 13.13 inches.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manual",
+        "url": "https://assets.fellowes.com/manuals/Standard%20Footrest_868886_011011.pdf",
+        "note": "Official Fellowes manual identifies model 48121 and documents the two-position height change by rotating the base 180 degrees.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/48096697-fellowes-foot-rest-under-desk-standard-foot-support-ergonomic-foot-rest-with-textured-surface-foot-rest-stool-for-office-home-use-black",
+        "note": "Current exact-model owner summaries consistently describe easy rocking and modest bulk, with a recurring need to reposition the light unit after it slides; older exact-model reports also flag adjustment noise.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Fellowes",
+        "note": "Official CPSC recall API returns a 2010 Fellowes Climate Control Footrest recall for item 80309, not Standard Foot Rest 48121 or ASIN B00006I62X. No exact match was found; this is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact ASIN, model, color, single-unit variant, and footprint agree across current Amazon and first-party evidence.",
+      "Two low height positions cover a modest desk-to-chair mismatch without adding a large under-desk frame.",
+      "The official current U.S. warranty schedule lists model 48121 with a five-year limited warranty."
+    ],
+    "failureModes": [
+      "The 3.5- and 4.375-inch settings may be too low after a shorter user raises the chair substantially.",
+      "The free-floating platform cannot be locked for users who need a fixed support angle.",
+      "The light plastic base can slide or make noise on hard floors according to recurring owner reports."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. Identity, evidence, and safety gates are clear, but the two-position low lift and repeated sliding/noise pattern make it too conditional for approval as the budget answer to this short-user problem.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "deskfit:B01NBWCTFD",
+    "siteId": "deskfit",
+    "productName": "Kensington SmartFit SoleMate Plus Foot Rest",
+    "model": "K52789WW",
+    "variant": "Black SmartFit SoleMate Plus, single unit, 21.9 x 14.2 x 3.5 inches, height- and tilt-adjustable",
+    "asin": "B01NBWCTFD",
+    "affiliateUrl": "https://www.amazon.com/dp/B01NBWCTFD/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "default",
+    "bestFor": "A shorter user who needs roughly 3.5 to 5 inches of documented lift, foot-operated adjustment, and a heavier platform that is less likely to wander under the desk.",
+    "skipIf": "The desk bay cannot spare a 21.9-inch-wide by 14.2-inch-deep footprint or the user wants a small, light footrest that can be moved between rooms.",
+    "mainTradeoff": "The stable six-pound platform and broader adjustment range cost more under-desk space, and owners report that the height mechanism can feel stiff until its operation is understood.",
+    "closestAlternative": "Fellowes 48121 for a smaller, simpler modest-lift option, accepting only two height settings and more sliding/noise risk.",
+    "editorialThesis": "K52789WW is the strongest current default because it pairs a documented short-user lift range with a substantial non-slip platform and foot-operated adjustment, while keeping the large footprint explicit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01NBWCTFD",
+        "note": "Verified exact U.S. listing: ASIN B01NBWCTFD maps to black Kensington SoleMate Plus model K52789WW; Amazon product details repeat the exact model, UPC, and selected black SmartFit SoleMate Plus variant.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manual",
+        "url": "https://az31609c.azureedge.net/literature/2099f501-84a4-466d-bfdc-34cfaa5a0996.pdf",
+        "note": "Current official Kensington product sheet identifies black K52789WW, UPC 085896527893, 21.9 x 14.2 x 3.5 inch dimensions, 6.6-pound unit weight, rubber base material, and two-year warranty.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.testbericht.de/produkte/acco-kensington-kensington-solemate-plus-k52789ww",
+        "note": "Current exact-model owner aggregation shows a 3.8/5 pattern across 30 ratings: stability, quiet use, and adjustment range are recurring positives, while setup and mechanism stiffness appear in the negative tail.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington",
+        "note": "Official CPSC recall API returns unrelated Kensington-named shoes and a bear, with no SoleMate, K52789WW, B01NBWCTFD, or ACCO footrest match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B01NBWCTFD",
+        "note": "The current exact listing retains a substantial owner-review base. This supports continued reader interest only; it does not prove fit, quality, conversion, or purchase demand for Deskfit readers.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, K52789WW model, black variant, UPC, dimensions, and weight align across Amazon and first-party documentation.",
+      "The documented height range covers a more meaningful chair-raise correction than the low two-position budget candidate.",
+      "A 6.6-pound unit with a rubber base is a credible stability advantage for a fixed compact workstation."
+    ],
+    "failureModes": [
+      "Its 21.9-inch width and 14.2-inch depth can crowd a narrow desk bay or chair pullback path.",
+      "The height mechanism can initially feel stuck or unclear according to owner reports.",
+      "A fixed-height range still requires the reader to measure the actual chair-to-floor gap before buying."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 82
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 82. The exact model and variant are current and consistent, the adjustment and footprint claims are measurable, owner evidence exposes the setup tradeoff, and the exact-model recall check is clear. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "deskfit:B000HVI1RG",
+    "siteId": "deskfit",
+    "productName": "Humanscale FM300 Foot Machine",
+    "model": "FR300-1NEW",
+    "variant": "Natural wood platform, black steel frame, without massage rollerballs, 3-inch height-adjustment range",
+    "asin": "B000HVI1RG",
+    "affiliateUrl": "https://www.amazon.com/dp/B000HVI1RG/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A fixed workstation where a shorter user wants a heavy rocking wood platform and can confirm the exact no-rollerball configuration and footprint before purchase.",
+    "skipIf": "The buyer needs a compact depth, a fully resolved FM300-versus-FR300 exact model identity, or a current accessible manufacturer page for the exact retail configuration.",
+    "mainTradeoff": "Its weight and three-inch height range are compelling, but the Amazon model code is FR300-1NEW while first-party material uses FM300, and the exact manufacturer product route currently redirects or fails.",
+    "closestAlternative": "Kensington K52789WW for a fully reconciled exact model, smaller depth, and current first-party technical sheet.",
+    "editorialThesis": "The physical concept fits the reader, but Deskfit should not promote a premium product while its current retail model code and manufacturer naming cannot be reconciled cleanly.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B000HVI1RG",
+        "note": "Verified exact U.S. listing: ASIN B000HVI1RG is Humanscale FM 300, natural wood, without rollerballs. The listing's item model is FR300-1NEW, creating a naming mismatch with FM300 first-party material.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.humanscale.com/userfiles/file/eupriceguide_full_0214.pdf",
+        "note": "Current official Humanscale price material includes the FM300 Foot Machine family, but it does not directly map Amazon model FR300-1NEW and the no-rollerball natural variant to this ASIN.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.workwhilewalking.com/humanscale-fm300-foot-rocker-review",
+        "note": "Exact-family independent review confirms the three-inch height range and heavy rocking construction, but discusses family options and cannot resolve the Amazon FR300-1NEW code or exact no-rollerball package.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Humanscale",
+        "note": "Official CPSC recall API returns the 2019 Humanscale QuickStand Lite workstation recall, not FM300, FR300-1NEW, or B000HVI1RG. No exact match was found; this is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The current Amazon title identifies the natural, no-rollerball retail variant and exact ASIN.",
+      "The heavy wood-and-steel construction and three-inch adjustment range directly address stable support.",
+      "An exact-family independent review gives useful ownership context beyond manufacturer claims."
+    ],
+    "failureModes": [
+      "FM300 and FR300-1NEW naming is not reconciled in accessible current first-party documentation.",
+      "The official exact product route currently redirects or fails, weakening support and variant confidence.",
+      "The substantial base depth can consume more chair pullback space than the approved Kensington candidate."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 4,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. The reader fit is strong, but the current retail model code, first-party FM300 naming, and no-rollerball package are not tied together tightly enough for an exact premium recommendation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "deskfit:B000IJ14M6",
+    "siteId": "deskfit",
+    "productName": "3M Adjustable Foot Rest",
+    "model": "FR330",
+    "variant": "Charcoal grey, 18-inch non-skid plastic platform, heavy-gauge steel base, two height positions and free tilt",
+    "asin": "B000IJ14M6",
+    "affiliateUrl": "https://www.amazon.com/dp/B000IJ14M6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A user who needs a heavy 18-inch platform at four or five inches high and accepts a freely tilting plastic deck.",
+    "skipIf": "Long-term platform durability is important, the user needs a locked angle, or repeated cracking reports are unacceptable.",
+    "mainTradeoff": "The steel base is stable and the height range fits the problem, but the foot platform is plastic and current plus historical exact-model owners report cracking under ordinary desk use.",
+    "closestAlternative": "Kensington K52789WW for a stable adjustable default without the same repeated exact-model cracking pattern.",
+    "editorialThesis": "A strong base and exact documentation do not outweigh a repeated platform-failure pattern in the very component that carries the user's feet.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B000IJ14M6",
+        "note": "Verified exact current U.S. listing: ASIN B000IJ14M6 is the grey 3M 18-inch adjustable non-skid platform footrest. The current title omits FR330, which is tied by first-party UPC and Amazon-linked 3M material.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.3m.com/3M/en_US/p/d/v000254657/",
+        "note": "Official 3M page identifies FR330, UPC 021200977169, 18 x 13 x 4 inch nominal dimensions, height and tilt adjustment, steel base, plastic platform, and two-year warranty.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.cdw.com/product/3m-adjustable-foot-rest-fr330/1728975",
+        "note": "Exact-model owner evidence is conflicting but materially negative: a November 2025 report says the platform cracked after three months, while an older detailed report describes two cracks after two years; positive owners praise stability and short-user fit.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=3M",
+        "note": "Official CPSC recall API returns unrelated 3M laminator, earmuff, hard-hat, air-purifier, and projector recalls, with no FR330 or B000IJ14M6 match. The no-match does not resolve durability complaints or certify safety.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Amazon, 3M, UPC, FR330 model, and exact ASIN identity are reconciled.",
+      "Four- and five-inch height settings directly cover the selected chair-raise problem.",
+      "The heavy-gauge steel base and non-skid platform are meaningfully differentiated from light plastic budget units."
+    ],
+    "failureModes": [
+      "Current and historical owners report the plastic platform cracking during ordinary under-desk use.",
+      "The tilt is friction-held rather than locked, which some owners find unstable.",
+      "The base is durable steel, but that does not prevent failure of the load-bearing plastic deck."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 3,
+      "meaningfulDifferentiation": 9,
+      "riskAndReturnFit": 2,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 58. Exact identity and specifications are strong, but repeated cracking reports on the plastic foot platform undermine ownership longevity and return-risk fit. Commercial value cannot rescue that failure pattern.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "deskfit:B071DQM9DD",
+    "siteId": "deskfit",
+    "productName": "EUREKA ERGONOMIC Tilt Adjustable Footrest",
+    "model": "DSN-03048",
+    "variant": "Black and grey metal-frame footrest, 20-degree free tilt, massage surface, no height adjustment",
+    "asin": "B071DQM9DD",
+    "affiliateUrl": "https://www.amazon.com/dp/B071DQM9DD/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "other",
+    "bestFor": "A user whose existing foot height already fits and who wants a low metal-frame rocker for ankle movement rather than additional lift.",
+    "skipIf": "The chair was raised enough that the feet need a measured height correction, or the user needs the platform to lock at one angle.",
+    "mainTradeoff": "It is a sturdy, low-profile rocker, but its free 20-degree tilt does not add adjustable height and therefore solves a different problem.",
+    "closestAlternative": "Kensington K52789WW when the actual need is documented height correction after raising the chair.",
+    "editorialThesis": "A well-built rocker is still the wrong recommendation when the reader needs vertical support, not simply ankle movement.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B071DQM9DD",
+        "note": "Verified exact current U.S. listing: ASIN B071DQM9DD is the EUREKA ERGONOMIC black-and-grey metal-frame footrest with 20-degree tilt and no locking mechanism; exact product detail records identify model DSN-03048.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://eurekaergonomic.com/products/ergonomic-foot-rest",
+        "note": "Official exact product page confirms the under-desk metal-frame rocker and 20-degree tilt design. It does not document adjustable platform height.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.ie/EUREKA-ERGONOMIC-Adjustable-Footrest-Footstool/dp/B071DQM9DD",
+        "note": "Exact-ASIN owner reports praise sturdiness and foot-controlled rocking but explicitly criticize the inability to adjust height or lock the angle. These are owner patterns, not Deskfit testing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Eureka",
+        "note": "Official CPSC recall API returned no Eureka recall records and no DSN-03048 or B071DQM9DD match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, DSN-03048 model, color, frame material, and free-tilt role are current and clear.",
+      "The metal frame and low profile suit users who only need stable rocking movement.",
+      "Owner evidence consistently distinguishes sturdy construction from missing height and lock controls."
+    ],
+    "failureModes": [
+      "No height adjustment means it cannot correct the measured floor gap created by raising the chair.",
+      "The platform cannot lock at the user's preferred angle.",
+      "Calling free tilt adjustable could mislead readers into assuming vertical adjustment that the product does not provide."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 10,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 5,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 55
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 55. The exact product is well evidenced, but it is a low rocker with no height adjustment, so it does not solve the selected post-chair-raise support gap.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "deskfit:B0B5JL2PZ7",
+    "siteId": "deskfit",
+    "productName": "HUANUO Dual-Platform Roller Footrest",
+    "model": "HNFR9",
+    "variant": "Black separated left/right rocking platforms with center massage roller and 20-degree tilt",
+    "asin": "B0B5JL2PZ7",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B5JL2PZ7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a shorter user stable foot support after raising the chair to match a compact fixed-height desk, without consuming excessive chair pullback space.",
+    "decisionSlot": "constraint",
+    "bestFor": "A user who wants independent left/right foot movement and can reverify the exact ASIN's height and lock configuration before activation.",
+    "skipIf": "Exact three-height and angle-lock features must be guaranteed, because HNFR9 is currently attached to more than one Amazon ASIN and the selected listing title omits those features.",
+    "mainTradeoff": "Independent platforms and a compact 17.24 by 12.79-inch footprint are distinctive, but current first-party and marketplace records do not map the HNFR9 feature package to one unambiguous U.S. ASIN.",
+    "closestAlternative": "Kensington K52789WW for one reconciled exact model and ASIN with a documented height range.",
+    "editorialThesis": "The split-platform concept could serve a real movement preference, but Deskfit should hold it until HNFR9's height and lock features are tied to one exact Amazon variant.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B5JL2PZ7",
+        "note": "Verified current U.S. route and title: ASIN B0B5JL2PZ7 is a black HUANUO footrest with massage texture, center roller, and 20-degree tilt. The exact title does not state three heights or an angle lock.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.huanuo.com/products/dual-platform-roller-footrest",
+        "note": "Official current page identifies model HNFR9, black, 17.24 x 12.79 x 6 inches, split platforms, and center roller, but does not publish an ASIN or clearly reconcile the exact height/lock package.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.ubuy.com.ly/en/product/7NQNZX61I-huanuo-foot-rest-under-desk-adjustable-ergonomic-footest-for-under-desk-at-work-or-gaming-with-massage-texture-and-roller-20-degree-tilt-or-lock",
+        "note": "Exact-family owner aggregation praises independent movement and easy adjustment but includes reports that the angle does not lock and loosens over time. It cannot resolve which HNFR9 ASIN package those reports describe.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=HUANUO",
+        "note": "Official CPSC recall API returned no HUANUO recall records and no HNFR9 or B0B5JL2PZ7 match. This dated no-match is not a safety certification and does not resolve variant identity.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The selected Amazon route, black color, split-platform role, massage roller, and 20-degree tilt are current.",
+      "Independent left/right motion is meaningfully different from single-deck rocking footrests.",
+      "The published first-party footprint is narrower than Kensington's approved platform."
+    ],
+    "failureModes": [
+      "HNFR9 appears under multiple Amazon ASINs with different height and locking claims.",
+      "The selected U.S. title omits the three-height and lock claims found on other marketplace records.",
+      "Owner reports about locking and loosening cannot be assigned confidently to one exact HNFR9 retail package."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 7,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 68
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 68. The split-platform concept fits a real constraint, but HNFR9 is mapped to conflicting ASIN and feature packages, so height and lock claims are not safe to activate for B0B5JL2PZ7.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
   }
 ]
