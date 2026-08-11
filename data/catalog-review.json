@@ -85,6 +85,18 @@
         "https://www.amazon.com/dp/B07H2W68N2",
         "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=cable%20raceway"
       ]
+    },
+    {
+      "asin": "B01NBWCTFD",
+      "status": "keep",
+      "reason": "Newly activated after the August 6 catalog review. The current exact Amazon listing and Kensington product sheet still map B01NBWCTFD to black SmartFit SoleMate Plus model K52789WW and support the measured lift, footprint, weight, materials, and foot-pedal claims used in the guide. Exact-model owner patterns preserve the mechanism-stiffness caveat, and the dated CPSC search has no exact match; that no-match is not a safety certification.",
+      "checkedAt": "2026-08-11",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01NBWCTFD",
+        "https://az31609c.azureedge.net/literature/2099f501-84a4-466d-bfdc-34cfaa5a0996.pdf",
+        "https://www.testbericht.de/produkte/acco-kensington-kensington-solemate-plus-k52789ww",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
+      ]
     }
   ]
 }

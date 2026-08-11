@@ -1711,13 +1711,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 82. The exact model and variant are current and consistent, the adjustment and footprint claims are measurable, owner evidence exposes the setup tradeoff, and the exact-model recall check is clear. Commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-11",
+      "guidePath": "/guides/best-footrests-for-home-office/"
     },
     "sourceRun": "product-discovery:2026-08-10",
     "researchedAt": "2026-08-10",
-    "lastVerifiedAt": "2026-08-10"
+    "lastVerifiedAt": "2026-08-11"
   },
   {
     "candidateId": "deskfit:B000HVI1RG",
