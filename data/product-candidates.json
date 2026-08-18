@@ -2117,9 +2117,9 @@
     "decision": "approve",
     "decisionReason": "Approve at 82. The exact variant is reconciled across current Amazon, first-party, independent owner, and official recall evidence; its removable three-setting design fills the no-drill default slot when the reader passes the width, clamp, drop, and knee-clearance measurements. Commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-18",
+      "guidePath": "/guides/home-office-setup-for-small-room/"
     },
     "sourceRun": "product-discovery:2026-08-18",
     "researchedAt": "2026-08-18",

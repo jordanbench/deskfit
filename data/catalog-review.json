@@ -97,6 +97,19 @@
         "https://www.testbericht.de/produkte/acco-kensington-kensington-solemate-plus-k52789ww",
         "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
       ]
+    },
+    {
+      "asin": "B07V7MT63H",
+      "status": "keep",
+      "reason": "Newly activated after the August 6 catalog review. The current exact Amazon listing and Kensington TAA list still map B07V7MT63H to black SmartFit Clamp-On Keyboard Drawer K55407WW and support the dimensions, three height settings, and 1.5-inch desk-thickness limit used in the guide. Exact-model owner patterns preserve the typing-tremble and surface-fit cautions, and the dated CPSC search has no exact match; that no-match is not a safety certification.",
+      "checkedAt": "2026-08-18",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07V7MT63H",
+        "https://www.kensington.com/siteassets/solution-pages/federal-page/taa-list-update-2025-q2_1744715202.pdf",
+        "https://www.ergodirect.com/attachments/26511/Product-Sheet-Kensington-K55407WW-SmartFit-Clamp-On-Keyboard-Drawer-TAA.pdf",
+        "https://www.bestbuy.com/site/reviews/kensington-smartfit-clamp-on-keyboard-drawer-black/10732457",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
+      ]
     }
   ]
 }
