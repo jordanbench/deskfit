@@ -2524,5 +2524,485 @@
     "sourceRun": "product-discovery:2026-08-18",
     "researchedAt": "2026-08-18",
     "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "deskfit:B00JI6NCCK",
+    "siteId": "deskfit",
+    "productName": "Vari VariDesk Pro Plus 36",
+    "model": "34563 / Pro Plus 36",
+    "variant": "Black, 36-inch manual spring-assisted two-tier converter with 11 height settings",
+    "asin": "B00JI6NCCK",
+    "affiliateUrl": "https://www.amazon.com/dp/B00JI6NCCK/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A permanent 36-inch-wide workstation on a desk deeper than 24 inches that can safely carry a 52-pound converter before monitors and input devices are added.",
+    "skipIf": "The existing desk is 24 inches deep, shared, frequently cleared, lightweight, or cannot safely carry the converter plus up to 35 pounds of equipment.",
+    "mainTradeoff": "It arrives assembled and has a well-documented lift, but its 29.75-inch depth and roughly 52-pound product weight directly conflict with the selected shallow renter desk.",
+    "closestAlternative": "FlexiSpot M7B for a narrower 28-inch surface and shallower published work area, although its exact U.S. Amazon page and base footprint remain unresolved in this run.",
+    "editorialThesis": "The Pro Plus 36 is a credible large permanent converter, not a responsible answer for a 24-inch-deep renter desk where footprint and dead load are the defining constraints.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00JI6NCCK",
+        "note": "Verified identity and current offer blocker: the exact U.S. page maps B00JI6NCCK to black VariDesk Pro Plus 36 model 34563 with 11 settings, 35-pound capacity, 29.75-inch depth, and roughly 52-pound product weight; it currently reports no featured offer.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.vari.com/sit-stand-converter-varidesk-pro-plus-36/DC-PP36.html?o=Color%3ABlack",
+        "note": "Manufacturer specification: the current black Pro Plus 36 page identifies the manual two-tier model, 36-inch width, weighted base, rowing lift, and spring-assisted adjustment; these are manufacturer claims, not Deskfit testing.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techradar.com/best/standing-desk-converters",
+        "note": "Current independent hands-on roundup describes the exact manual Pro Plus 36 as stable and simple but confirms a 36 by 29.75-inch footprint, 35-pound limit, and no integrated cable management; Deskfit did not test it.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=VariDesk",
+        "note": "Official CPSC recall API search returned a 2020 Stand2Learn stool recall, not Pro Plus 36, model 34563, or B00JI6NCCK. No exact converter match was found; this is not a safety certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact black variant, model, ASIN, capacity, adjustment style, product weight, and canonical affiliate URL are reconciled.",
+      "The fully assembled manual lift avoids a motor, power cord, and electronic replacement burden.",
+      "Current first-party and independent sources agree on the large two-tier geometry and 35-pound equipment limit."
+    ],
+    "failureModes": [
+      "A 29.75-inch-deep converter cannot be supported responsibly by the selected 24-inch-deep desk.",
+      "The roughly 52-pound product creates a substantial permanent load before monitors and peripherals are added.",
+      "The exact Amazon page has no featured offer, so the affiliate destination is not activation-ready."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 12,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 3,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. Exact identity and evidence are strong, but a 29.75-inch-deep, roughly 52-pound converter is fundamentally mismatched to a 24-inch-deep renter desk, and the exact Amazon page currently has no featured offer.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B0784HWPN6",
+    "siteId": "deskfit",
+    "productName": "VIVO 36-Inch V Series Desk Converter",
+    "model": "DESK-V000V",
+    "variant": "Black, 36-inch manual pneumatic-assist two-tier converter with removable keyboard tray",
+    "asin": "B0784HWPN6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0784HWPN6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "budget",
+    "bestFor": "A deeper, stable desk where a permanent 36-inch converter can remain installed and the user accepts a 6.5-inch seated platform height.",
+    "skipIf": "The desk is only 24 inches deep, cannot carry a roughly 43-pound converter plus equipment, or must preserve open writing space when seated.",
+    "mainTradeoff": "The value-oriented pneumatic lift and removable tray are straightforward, but the full assembly is large and raises the work surface 6.5 inches even in the seated position.",
+    "closestAlternative": "FlexiSpot M7B for a narrower 28-inch work area and lower 4.7-inch minimum height, pending exact U.S. listing and base-footprint verification.",
+    "editorialThesis": "A popular value converter still fails this reader if its full depth, dead load, and raised seated level turn a shallow desk into a more crowded fixed platform.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0784HWPN6",
+        "note": "Verified identity and current offer blocker: the exact U.S. page maps B0784HWPN6 to black VIVO DESK-V000V, 36-inch V Series with wide tray and dual-monitor positioning; it currently reports no featured offer.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://vivo-us.com/collections/manual-desk-converter/products/desk-v000v?variant=43675361149204",
+        "note": "Manufacturer specification: DESK-V000V has a 36 by 22-inch upper surface, 25 by 10.5-inch tray, 6.5-to-17-inch height range, 33-pound desktop limit, and 4-pound tray limit; claims are not hands-on findings.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.wayfair.com/furniture/pdp/vivo-monitor-riser-height-adjustable-standing-desk-converter-uczf1325.html",
+        "note": "Current exact-series owner summary reports generally smooth adjustment and easy assembly, with a recurring size warning; the current record lists about 43.3 pounds and a 39-inch maximum overall depth, reinforcing the shallow-desk mismatch.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=DESK-V000V",
+        "note": "Official CPSC recall API returned no DESK-V000V records and no exact B0784HWPN6 match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, black color, V Series model, width, height range, and capacity reconcile across current Amazon and VIVO sources.",
+      "The removable keyboard tray allows a user to simplify the two-tier layout.",
+      "The manual pneumatic mechanism avoids a required power outlet and motor dependency."
+    ],
+    "failureModes": [
+      "The assembly can extend far beyond a shallow desktop envelope when raised.",
+      "A 6.5-inch seated minimum can place the keyboard or monitor too high unless the chair and foot support are reconfigured.",
+      "The exact Amazon page has no featured offer, and the converter adds roughly 43 pounds before equipment."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 14,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 3,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 57
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 57. The exact model is well documented, but its large moving envelope, 6.5-inch seated height, substantial dead load, and no-featured-offer Amazon page make it a poor fit for the selected 24-inch-deep renter desk.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B0762K7JJT",
+    "siteId": "deskfit",
+    "productName": "FlexiSpot AlcoveRiser 28-Inch Desk Converter",
+    "model": "M7B",
+    "variant": "Black, 28-inch manual gas-spring converter with removable deep keyboard tray",
+    "asin": "B0762K7JJT",
+    "affiliateUrl": "https://www.amazon.com/dp/B0762K7JJT/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "constraint",
+    "bestFor": "A narrow single-monitor or laptop workstation that can verify the complete base footprint and exact current Amazon package before buying.",
+    "skipIf": "The current U.S. offer, black package identity, complete base depth, or support under the full lift path cannot be confirmed.",
+    "mainTradeoff": "The 28-inch width and 4.7-inch minimum are the closest match to the reader constraint, but the exact U.S. Amazon page was unavailable to the research tool and the first-party page does not publish the complete base footprint.",
+    "closestAlternative": "Rocelco R DADRB for a wider vertical-lift design with a documented 20.5-inch work surface, although that exact Amazon page currently has no featured offer.",
+    "editorialThesis": "M7B is the only researched geometry close enough to merit follow-up, but Deskfit should not recommend it until the exact U.S. package and complete support footprint are current and inspectable.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0762K7JJT",
+        "note": "Evidence blocker: the exact U.S. Amazon route returned an internal retrieval error on the check date. Current indexed records and prior public procurement map B0762K7JJT to black FlexiSpot M7B 28-inch, but the live offer and selected package could not be inspected directly.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.flexispot.com/desks/standing-desk-converters/alcoveriser-standing-desk-converters-m7-28-inch",
+        "note": "Manufacturer specification: current M7B page lists a 28.4 by 16.3-inch upper surface, 28.4 by 12.1-inch tray, 4.7-to-19.7-inch range, 33-pound upper limit, and 4.4-pound tray limit; it does not publish the full base footprint.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.androidauthority.com/flexispot-m7b-review-1159254/",
+        "note": "Independent hands-on review identifies the exact M7B, confirms the 28.4-inch maximum width and 27.6-inch base width, and reports useful compactness; the older review does not resolve the current U.S. package or full base-depth question.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=M7B",
+        "note": "Official CPSC recall API returned no M7B records and no exact B0762K7JJT match. This dated no-match is not a safety certification and does not resolve the Amazon evidence blocker.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The 28-inch width is the narrowest full two-tier converter in this run.",
+      "The published 4.7-inch minimum is lower than the larger VIVO and VersaDesk candidates.",
+      "A removable tray and single-handle adjustment reduce daily reset steps if the exact package clears re-verification."
+    ],
+    "failureModes": [
+      "The exact U.S. Amazon page could not be inspected, so current variant and offer readiness are not verified.",
+      "The manufacturer does not publish the full base footprint needed to judge safe support on a 24-inch-deep desk.",
+      "A 4.4-pound tray limit leaves little margin for leaning pressure or unusually heavy input hardware."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 7,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 68. M7B is the closest geometric fit, but the exact U.S. Amazon page is blocked and the full base footprint is unpublished. Those gaps prevent a reliable 24-inch-depth recommendation or affiliate activation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B015H5MDIO",
+    "siteId": "deskfit",
+    "productName": "Ergotron WorkFit-TL Desktop Workstation",
+    "model": "33-406-085",
+    "variant": "Black and dark-gray, 37.5-inch vertical-lift converter with 27.5-inch keyboard tray",
+    "asin": "B015H5MDIO",
+    "affiliateUrl": "https://www.amazon.com/dp/B015H5MDIO/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A commercial-grade permanent workstation on a table deeper than 24 inches that can support a 56-pound converter and 10-to-40-pound balanced equipment load.",
+    "skipIf": "The desk is exactly 24 inches deep, lightweight, shared, or cannot keep the required load within the published 10-to-40-pound operating window.",
+    "mainTradeoff": "The straight-up lift and five-year warranty reduce rear travel and support risk, but the official minimum desk depth and 56-pound weight leave no practical margin on the selected 24-inch desk.",
+    "closestAlternative": "Rocelco R DADRB for a lighter and narrower-depth vertical-lift concept, subject to its current no-featured-offer blocker.",
+    "editorialThesis": "WorkFit-TL is a defensible heavy-duty office product, but its minimum-depth boundary and dead load make it the wrong recommendation for a shallow renter desk.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B015H5MDIO",
+        "note": "Verified identity and current offer blocker: exact U.S. page maps B015H5MDIO to black Ergotron WorkFit-TL 33-406-085, 37.5-inch width, 10-to-40-pound capacity, and 15-inch vertical lift; it reports no featured offer.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://media.ergotron.com/reserved/resources/1d5042ab11f949b0af7d8a283ff6fb44-orig.pdf",
+        "note": "Official technical sheet identifies black part 33-406-085, 37.5 by 23-inch work surface, 27.5 by 11-inch tray, 56-pound product weight, five-year warranty, and fit on desks 24 inches deep or larger.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.ergodirect.com/18382-ergotron-33-406-085-workfit-tl-black-sit-stand-desktop-workstation.html",
+        "note": "Current exact-model reseller page aggregates owners who praise the easy vertical movement and solid build; it also exposes the 56-pound product weight and older reports of limited mouse-tray curvature. Owner reports are not controlled testing.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=33-406-085",
+        "note": "Official CPSC recall API returned no 33-406-085 records and no exact B015H5MDIO match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact part number, black variant, ASIN, dimensions, load range, warranty, and canonical affiliate URL reconcile.",
+      "Straight-up vertical travel avoids the forward rowing envelope of many converter designs.",
+      "Official documentation states the desk-depth boundary and balanced load range plainly."
+    ],
+    "failureModes": [
+      "The official 24-inch minimum leaves no front-to-back support margin on the selected desk.",
+      "The 56-pound converter plus equipment can exceed the safe capacity of lightweight apartment furniture.",
+      "The exact Amazon page has no featured offer, and the product's useful operating load starts at 10 pounds."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 11,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 2,
+      "demandSignal": 2,
+      "commercialValue": 0,
+      "total": 53
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 53. The exact heavy-duty model is well substantiated, but a 56-pound converter whose official support boundary starts at 24 inches is not a prudent fit for an exactly 24-inch-deep renter desk, and its Amazon page has no featured offer.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B01M31ZILR",
+    "siteId": "deskfit",
+    "productName": "Rocelco 37.5-Inch Deluxe Desk Riser",
+    "model": "R DADRB",
+    "variant": "Black, 37.5-inch dual-piston vertical-lift converter with retractable keyboard tray",
+    "asin": "B01M31ZILR",
+    "affiliateUrl": "https://www.amazon.com/dp/B01M31ZILR/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "compatibility",
+    "bestFor": "A stable 24-inch-deep desk that can keep the 37.5-inch-wide riser permanently installed and can tolerate its exact footprint after a cardboard fit test.",
+    "skipIf": "The desk is narrower than the riser, the 20.5-inch upper surface plus retractable tray crowds the front edge, or a currently featured Amazon offer is required.",
+    "mainTradeoff": "The vertical lift and retractable tray are promising for a shallow desk, but the exact Amazon page has no featured offer and first-party evidence does not publish a conservative front-edge support margin for a 24-inch desktop.",
+    "closestAlternative": "FlexiSpot M7B for a narrower work area, pending direct U.S. listing access and full base-footprint verification.",
+    "editorialThesis": "R DADRB merits rechecking because its vertical lift and 20.5-inch upper surface are directionally compatible, but current offer and support-margin evidence are not strong enough for approval.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01M31ZILR",
+        "note": "Verified identity and current offer blocker: exact U.S. page maps B01M31ZILR to black Rocelco R DADRB, 37.5 by 20.5-inch upper surface, 29.3 by 11.6-inch retractable tray, 5-to-17-inch lift, and 35-pound capacity; it reports no featured offer.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://rocelco.com/wp-content/uploads/2025/03/Rocelco-2025-Catalog.pdf",
+        "note": "Official current catalog identifies black model R DADRB and its UPC within Rocelco's desk-riser line, supporting exact family and color identity without implying hands-on performance.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://georgia.desertcart.com/products/314666588-rocelco37-5-deluxe-height-adjustable-standing-desk-converter-quick-sit-stand-up-dual-monitor-riser-gas-spring-assist-computer-workstation-large-retractable-keyboard-tray-black-r-dadrb",
+        "note": "Current exact-model owner summary reports smooth everyday movement and sturdy materials, while confirming about 38 pounds of product weight; the available reports are older and do not establish safe support on an exactly 24-inch-deep desk.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=R%20DADRB",
+        "note": "Official CPSC recall API returned no R DADRB records and no exact B01M31ZILR match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, R DADRB model, black variant, dimensions, lift range, and canonical affiliate URL reconcile.",
+      "Vertical travel avoids the extra forward arc used by rowing-lift converters.",
+      "The retractable keyboard tray can recover some seated desk access when pushed in."
+    ],
+    "failureModes": [
+      "A 37.5-inch-wide, roughly 38-pound assembly is still a permanent burden on compact furniture.",
+      "Current sources do not publish a conservative base-support margin for an exactly 24-inch-deep desktop.",
+      "The exact Amazon page has no featured offer, so activation and return-path evaluation are blocked."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 4,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 65
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 65. The vertical lift and 20.5-inch upper surface make R DADRB worth rechecking, but a no-featured-offer Amazon page and missing support-margin evidence prevent approval for an exactly 24-inch-deep desk.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B0864RSM5S",
+    "siteId": "deskfit",
+    "productName": "VersaDesk PowerPro 36 Electric Converter",
+    "model": "PowerPro 36 / 36BLKPP",
+    "variant": "Black, 36 by 24-inch powered two-tier converter with USB charging and wide keyboard tray",
+    "asin": "B0864RSM5S",
+    "affiliateUrl": "https://www.amazon.com/dp/B0864RSM5S/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Add occasional sit-stand movement to a renter's existing 24-inch-deep desk without replacing the furniture, losing usable typing depth, or creating an unsafe lift-and-reset routine.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A deep, high-capacity desk where motorized low-effort adjustment matters more than preserving depth, outlet access, and long-term component simplicity.",
+    "skipIf": "The existing desk is exactly 24 inches deep, outlet access is scarce, the powered mechanism would be hard to service, or a currently featured Amazon or manufacturer offer is required.",
+    "mainTradeoff": "Push-button lift removes manual raising effort, but the 36-by-24-inch platform consumes the selected desk's full depth and adds a motor, control, power cord, and cable-clearance burden.",
+    "closestAlternative": "Rocelco R DADRB for manual vertical lift without a required outlet, though its current Amazon offer and desk-support margin also remain blocked.",
+    "editorialThesis": "Motorized convenience cannot rescue a converter that occupies the full 24-inch desk depth and currently lacks both a featured Amazon offer and a purchasable first-party configuration.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0864RSM5S",
+        "note": "Verified identity and current offer blocker: exact U.S. page maps B0864RSM5S to VersaDesk PowerPro 36 electric dual-tier converter; current listing reports no featured offer while retaining exact ASIN content and owner-count signals.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://versadesk.com/products/powerpro-electric-standing-desk-converter-with-usb-charging",
+        "note": "Manufacturer specification: selected VDPP3624-BB configuration is black 36 by 24 inches with electric lift, USB-A, up-to-20-inch rise, and 80-pound claimed capacity; the current first-party page marks the configuration unavailable.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/189362336-versadesk-powerpro-36-inch-electric-standing-desk-converter-height-adjustable-sit-to-stand-up-desk-riser-laptop-and-dual-monitor-desktop-workstation-with-wide-keyboard-tray-and-usb-port-black",
+        "note": "Current exact-ASIN owner aggregation supports easy powered movement and straightforward setup but offers too little negative-tail detail to establish long-term motor or control reliability; it confirms 24 by 36-inch geometry and model 36BLKPP.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=PowerPro",
+        "note": "Official CPSC recall API returned no PowerPro records and no exact B0864RSM5S match. This dated no-match is not a safety certification and does not establish motor reliability.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, black 36-inch PowerPro identity, powered lift, dimensions, and canonical affiliate URL reconcile.",
+      "Push-button adjustment reduces lifting effort for users who cannot comfortably operate spring-assisted converters.",
+      "The 80-pound manufacturer capacity claim is materially higher than the manual candidates, though Deskfit did not test it."
+    ],
+    "failureModes": [
+      "A 24-inch-deep unit consumes the selected desk's entire nominal depth with no conservative support margin.",
+      "Motor, controller, USB port, and power cord add maintenance and cable-routing failure points.",
+      "Both the exact Amazon page and selected first-party configuration currently lack a ready offer."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 14,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 9,
+      "riskAndReturnFit": 1,
+      "demandSignal": 5,
+      "commercialValue": 1,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. Electric adjustment is distinct, but the full 24-inch depth leaves no support margin, the powered system adds maintenance and cord burden, and both Amazon and the selected first-party configuration currently lack a ready offer.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
   }
 ]
