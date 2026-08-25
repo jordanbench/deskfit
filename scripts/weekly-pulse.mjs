@@ -82,16 +82,21 @@ const currentByAsin = new Map(products.map((product) => [product.asin, product])
 const productsAdded = products.filter((product) => !previousByAsin.has(product.asin));
 const productsRemoved = previousProducts.filter((product) => !currentByAsin.has(product.asin));
 const affiliateDiff = git(["diff", "--unified=0", "--no-ext-diff", "HEAD~1..HEAD", "--", "guides"]);
-const affiliateLinksAdded = affiliateDiff
+const rawAffiliateLinksAdded = affiliateDiff
   .split("\n")
   .filter((line) => line.startsWith("+") && !line.startsWith("+++"))
   .flatMap((line) => [...line.matchAll(/https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\/ref=nosim\?tag=abbeybench-20/g)])
   .map((match) => match[1]);
-const affiliateLinksRemoved = affiliateDiff
+const rawAffiliateLinksRemoved = affiliateDiff
   .split("\n")
   .filter((line) => line.startsWith("-") && !line.startsWith("---"))
   .flatMap((line) => [...line.matchAll(/https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\/ref=nosim\?tag=abbeybench-20/g)])
   .map((match) => match[1]);
+const affiliateLinkDelta = new Map();
+for (const asin of rawAffiliateLinksAdded) affiliateLinkDelta.set(asin, (affiliateLinkDelta.get(asin) || 0) + 1);
+for (const asin of rawAffiliateLinksRemoved) affiliateLinkDelta.set(asin, (affiliateLinkDelta.get(asin) || 0) - 1);
+const affiliateLinksAdded = [...affiliateLinkDelta].flatMap(([asin, count]) => count > 0 ? Array(count).fill(asin) : []);
+const affiliateLinksRemoved = [...affiliateLinkDelta].flatMap(([asin, count]) => count < 0 ? Array(-count).fill(asin) : []);
 const linkedAsinsAdded = [...new Set(affiliateLinksAdded)].sort();
 const linkedAsinsRemoved = [...new Set(affiliateLinksRemoved)].sort();
 const lastCatalogUpdate = git(["log", "-1", "--format=%cs", "--", "data/products.json"]) || "unknown";
