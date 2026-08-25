@@ -87,7 +87,13 @@ const affiliateLinksAdded = affiliateDiff
   .filter((line) => line.startsWith("+") && !line.startsWith("+++"))
   .flatMap((line) => [...line.matchAll(/https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\/ref=nosim\?tag=abbeybench-20/g)])
   .map((match) => match[1]);
+const affiliateLinksRemoved = affiliateDiff
+  .split("\n")
+  .filter((line) => line.startsWith("-") && !line.startsWith("---"))
+  .flatMap((line) => [...line.matchAll(/https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})\/ref=nosim\?tag=abbeybench-20/g)])
+  .map((match) => match[1]);
 const linkedAsinsAdded = [...new Set(affiliateLinksAdded)].sort();
+const linkedAsinsRemoved = [...new Set(affiliateLinksRemoved)].sort();
 const lastCatalogUpdate = git(["log", "-1", "--format=%cs", "--", "data/products.json"]) || "unknown";
 
 async function inspectRemoteCatalog() {
@@ -136,18 +142,23 @@ const report = [
   "",
   "## Product catalog growth",
   `- Recommended products added in latest commit: ${productsAdded.length}`,
+  `- Products activated in latest commit: ${productsAdded.length}`,
   `- Products removed in latest commit: ${productsRemoved.length}`,
   `- Affiliate link placements added in latest commit: ${affiliateLinksAdded.length}`,
+  `- Affiliate link placements removed in latest commit: ${affiliateLinksRemoved.length}`,
   `- Last product catalog update: ${lastCatalogUpdate}`,
   `- Supabase product rows for this site: ${remoteCatalog.count}`,
   `- Catalog sync state: ${remoteCatalog.state}`,
   `- Product sync result: ${productSyncResult}`,
   ...(productsAdded.length
-    ? productsAdded.map((product) => `- Added product: ${product.asin} — ${product.name}`)
-    : ["- Added products: none"]),
+    ? productsAdded.map((product) => `- Activated in latest commit: ${product.asin} — ${product.name}`)
+    : ["- Activated in latest commit: none"]),
   ...(linkedAsinsAdded.length
     ? [`- ASINs linked by new placements: ${linkedAsinsAdded.join(", ")}`]
     : ["- ASINs linked by new placements: none"]),
+  ...(linkedAsinsRemoved.length
+    ? [`- ASINs removed from guide placements: ${linkedAsinsRemoved.join(", ")}`]
+    : ["- ASINs removed from guide placements: none"]),
   "",
   "## Product discovery funnel",
   `- Candidates in evidence registry: ${candidates.length}`,
