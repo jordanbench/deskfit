@@ -3004,5 +3004,503 @@
     "sourceRun": "product-discovery:2026-08-24",
     "researchedAt": "2026-08-24",
     "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "deskfit:B0DK59YKRS",
+    "siteId": "deskfit",
+    "productName": "BenQ ScreenBar Halo 2 Monitor Light Bar",
+    "model": "ScreenBar Halo 2",
+    "variant": "Dark grey 50 cm front-and-back monitor light with wireless controller, motion sensor, webcam accessory, and USB-C power adapter",
+    "asin": "B0DK59YKRS",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DK59YKRS/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A premium single-monitor or curved-monitor setup that needs both downward task light and rear ambient light, plus an included webcam accessory and precise remote control.",
+    "skipIf": "A current featured Amazon offer is required, the desk cannot spare space for a wireless controller, the monitor falls outside the stated 0.17-to-2.36-inch or 1000R-to-1800R fit ranges, or a simple front-only light is sufficient.",
+    "mainTradeoff": "The broad fit range, backlight, sensor, and controller add useful control but also cost, another desktop object, a rechargeable battery, and more settings than a basic task light needs.",
+    "closestAlternative": "BenQ ScreenBar B07Q3TCT4L in the active catalog for a simpler front-only light, though its current exact offer and fit should be reverified before a comparison is published.",
+    "editorialThesis": "Halo 2 is the best-supported upgrade candidate for difficult curved or thick-monitor fits, but Deskfit should not activate it while the exact Amazon listing has no featured offer.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DK59YKRS",
+        "note": "Verified identity and current offer blocker: the exact U.S. listing maps B0DK59YKRS to BenQ ScreenBar Halo 2, dark grey, with wireless controller, backlight, motion sensor, webcam accessory, and 0.17-to-2.36-inch monitor-thickness claim; the page reports no featured offers available.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-halo-2/spec.html",
+        "note": "Manufacturer specification: BenQ lists a 50 cm dark-grey light, 2700K-to-6500K adjustment, maximum 15W USB-C input, 0.43-to-6 cm flat/curved monitor thickness, a webcam accessory, and 85-by-50 cm claimed coverage at 500 lux; these are manufacturer claims, not Deskfit measurements.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.parkablogs.com/content/benq-screenbar-halo-2-monitor-light",
+        "note": "Independent review with a BenQ-provided sample reports strong controller build, broad adjustment, and included webcam mount, while identifying the controller as an additional desk object; the sample disclosure limits independence but the usage details are exact to Halo 2.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=BenQ%20ScreenBar%20Halo%202",
+        "note": "Official CPSC site search for BenQ ScreenBar Halo 2 returned no results on the check date. This dated no-match is not a safety certification and does not establish electrical or long-term reliability.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact model, dark-grey variant, ASIN, canonical affiliate URL, and major fit and power limits reconcile across Amazon and BenQ.",
+      "The published flat/curved thickness range and included webcam accessory address two common monitor-light fit failures directly.",
+      "Independent exact-model use supports the controller and adjustment claims without Deskfit implying hands-on testing."
+    ],
+    "failureModes": [
+      "The exact Amazon listing currently has no featured offer, so a reader may land on an unavailable or third-party-only purchase path.",
+      "The wireless controller consumes desk surface and adds a rechargeable component that a touch-controlled bar avoids.",
+      "Motion sensing can turn the light off when the user remains still, according to BenQ's own operating explanation."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 20,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 11,
+      "demandSignal": 5,
+      "commercialValue": 1,
+      "total": 85
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 85. The exact identity, fit range, official specifications, independent use, and dated CPSC no-match are strong enough for an upgrade slot, but the exact Amazon page currently has no featured offer. Do not send readers to an uncertain purchase path merely because the evidence score is high.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B08DKQ3JG1",
+    "siteId": "deskfit",
+    "productName": "Quntis ScreenLinear Pro Monitor Light Bar",
+    "model": "LI-HY-0214-BK",
+    "variant": "Black 15.7-inch USB monitor light with touch controls and auto-dimming",
+    "asin": "B08DKQ3JG1",
+    "affiliateUrl": "https://www.amazon.com/dp/B08DKQ3JG1/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "budget",
+    "bestFor": "A flat or mildly irregular monitor where a compact front-only light and direct touch control matter more than a separate remote or rear ambient light.",
+    "skipIf": "A current featured Amazon offer, a clearly manufacturer-hosted manual, an unobstructed top-bezel webcam position, or independently measured glare performance is required.",
+    "mainTradeoff": "The smaller bar and touch controls keep ownership simple, but touching the bar can disturb its position and the retrieved manual conflicts with the Amazon title by describing a wireless remote.",
+    "closestAlternative": "Quntis PRO+ B0B6P9J3J5 for a wider 20-inch bar and wireless remote, if its featured offer returns and webcam clearance is measured first.",
+    "editorialThesis": "The exact ASIN has a plausible budget role and substantial owner demand, but listing availability and documentation conflict are too material for activation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08DKQ3JG1",
+        "note": "Verified exact ASIN and Amazon model LI-HY-0214-BK for the black Quntis monitor lamp with touch control and auto-dimming; the current page reports no featured offers available despite retaining exact identity and owner-count signals.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B08DKQ3JG1.pdf",
+        "note": "Retrieved manual maps LI-HY-0214-BK to ScreenLinear Pro and lists 15.7-inch width, 5V/5W USB power, 3000K-to-6500K control, and up-to-2.75-inch monitor thickness. It also describes a wireless remote absent from the Amazon title, so remote and packaging claims remain conflicting.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://homeofficesetuplist.com/quntis-monitor-light-bar-review-long-term",
+        "note": "Labeled owner pattern: a current long-term write-up identifies exact ASIN B08DKQ3JG1 and reports regular USB-powered use, while older owner discussions include flicker and support complaints. These are anecdotal signals, not controlled reliability evidence.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=Quntis%20LI-HY-0214-BK",
+        "note": "Official CPSC site search for Quntis LI-HY-0214-BK returned no results on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B08DKQ3JG1",
+        "note": "Current Amazon page displayed 13,742 ratings and 4K+ bought in the past month. This is a demand signal only and cannot overcome the offer and documentation blockers.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, Amazon model number, black variant, and canonical affiliate URL are verified.",
+      "Compact front-only design directly addresses limited desk surface without adding a desktop controller.",
+      "Current Amazon owner-count signals indicate substantial interest, though they are not recommendation evidence."
+    ],
+    "failureModes": [
+      "The exact Amazon listing currently has no featured offer.",
+      "Touching controls on the lamp can shift the bar or beam angle.",
+      "Retrieved documentation conflicts on whether the exact package includes a wireless remote, weakening claims confidence."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 8,
+      "demandSignal": 5,
+      "commercialValue": 1,
+      "total": 65
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 65. The exact budget ASIN and compact form fit the reader problem, but the page has no featured offer and the retrieved manual conflicts with the listing on remote-control packaging. Demand cannot rescue blocked purchase readiness or inconsistent documentation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B0B6P9J3J5",
+    "siteId": "deskfit",
+    "productName": "Quntis Monitor Light Bar PRO+",
+    "model": "LI-HY-0208-BK",
+    "variant": "Black 20-inch USB monitor light with wireless remote, auto-dimming, and weighted clip for flat or curved monitors",
+    "asin": "B0B6P9J3J5",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B6P9J3J5/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "compatibility",
+    "bestFor": "A wider flat or curved monitor where a 20-inch front light, wireless control, and auto-dimming are worth adding a desktop puck.",
+    "skipIf": "A current featured Amazon offer is required, the webcam must remain centered without a separate mount, the monitor has a fragile or unusually thin top bezel, or the buyer wants independently measured glare performance.",
+    "mainTradeoff": "The wider bar and remote improve reach and coverage, but the bar can compete with a webcam and may partly cover a thin top bezel.",
+    "closestAlternative": "BenQ ScreenBar Halo 2 B0DK59YKRS for documented webcam and broader curved-monitor fit, at the cost of more ownership complexity and an equally blocked current featured offer.",
+    "editorialThesis": "PRO+ is the strongest midrange compatibility candidate, but its exact offer must return and webcam placement must be checked before Deskfit can recommend it.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B6P9J3J5",
+        "note": "Verified identity and offer blocker: exact U.S. page maps B0B6P9J3J5 to Quntis PRO+, Amazon model LI-HY-0208-BK, black 20-inch bar with remote and flat/curved-monitor positioning; it currently reports no featured offers available.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.quntis.com/blogs/news/quntis-monitor-light-bar-pro-with-remote-control-unboxing-and-review",
+        "note": "Manufacturer-hosted product walkthrough identifies the PRO+ package as the light bar, wireless remote, USB-C-to-USB-A cable, AAA batteries, and manuals. Treat performance language as a manufacturer claim.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.creativebloq.com/reviews/quntis-screenlinear-pro-plus",
+        "note": "Independent exact-model review reports useful auto-dimming and remote control, but says the bar occupies the same top-monitor space a webcam may need and can partially block thin bezels; the review unit provenance is disclosed.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=Quntis%20LI-HY-0208-BK",
+        "note": "Official CPSC site search for Quntis LI-HY-0208-BK returned no results on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B0B6P9J3J5",
+        "note": "Current Amazon page displayed 2,428 ratings and 500+ bought in the past month. This is a demand signal only and does not clear the offer or fit gates.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, Amazon model, black 20-inch variant, and canonical affiliate URL are verified.",
+      "Wireless control avoids repeatedly touching and shifting the monitor-mounted bar.",
+      "Independent exact-model use identifies both useful auto-dimming and concrete webcam/top-bezel limitations."
+    ],
+    "failureModes": [
+      "The exact Amazon listing currently has no featured offer.",
+      "A centered webcam may compete with the light bar or require a separate mount.",
+      "Thin bezels can be partially covered, and actual glare performance depends on monitor geometry and beam angle."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 5,
+      "commercialValue": 1,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 77. The exact model, wider bar, remote, current independent review, and CPSC no-match make this a credible compatibility candidate, but the exact Amazon page has no featured offer and webcam/top-bezel fit remains setup-dependent.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B08W2C5W59",
+    "siteId": "deskfit",
+    "productName": "Xiaomi Mi Computer Monitor Light Bar",
+    "model": "MI-BHR4838GL / 30769",
+    "variant": "Black 17.6-inch USB monitor light with wireless rotary remote; U.S. listing identity does not reconcile cleanly with official model MJGJD01YL",
+    "asin": "B08W2C5W59",
+    "affiliateUrl": "https://www.amazon.com/dp/B08W2C5W59/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A buyer willing to manage an imported or region-specific listing in exchange for a compact wireless-dial light bar, after independently confirming seller, warranty, and exact model packaging.",
+    "skipIf": "The exact U.S. model and warranty must reconcile with Xiaomi's official MJGJD01YL documentation, a featured Amazon offer is required, or the buyer wants predictable U.S. replacement support.",
+    "mainTradeoff": "The compact magnetic bar and wireless dial are attractive, but the U.S. listing model fields do not match Xiaomi's official model number and current offer support is absent.",
+    "closestAlternative": "Quntis PRO+ B0B6P9J3J5 for an exact Amazon model and broader current review trail, though its featured offer is also blocked.",
+    "editorialThesis": "Do not recommend a regionally ambiguous light-bar listing when the exact official model, seller support, and current offer cannot be reconciled.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08W2C5W59",
+        "note": "Current exact U.S. page maps B08W2C5W59 to Xiaomi Mi Computer Monitor Light Bar and lists model 30769 with manufacturer part MI-BHR4838GL, black; it reports no featured offers available.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.mi.com/us/product/mi-computer-monitor-light-bar/specs/",
+        "note": "Official Xiaomi U.S. specifications identify product model MJGJD01YL, 5V/1A input, 5W rated power, 17.6-inch body, 2700K-to-6500K adjustment, and a wireless remote. The official model does not match the exact U.S. Amazon model fields, leaving variant identity unresolved.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.computerbild.de/artikel/cb-Tests-PC-Hardware-Xiaomi-Mi-Computer-Monitor-Light-Bar-Test-Review-38888395.html",
+        "note": "Independent review of the Mi Computer Monitor Light Bar supports the USB-C-powered compact-light concept, but it does not resolve the U.S. ASIN's 30769/MI-BHR4838GL versus MJGJD01YL identity mismatch.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/Xiaomi/comments/ts6hgn/mi_computer_monitor_light_bar_seems_dead/",
+        "note": "Labeled anecdotal owner pattern: multiple owners report sudden power loss after months of use and difficulty isolating cable versus lamp failure. This is not a failure-rate estimate but increases ownership uncertainty where U.S. warranty identity is already unclear.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=Xiaomi%20MJGJD01YL",
+        "note": "Official CPSC site search for Xiaomi MJGJD01YL returned no results on the check date. This dated no-match is not a safety certification and does not resolve the regional model mismatch.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact U.S. ASIN, Amazon model fields, black variant, and canonical affiliate URL are recorded without pretending they match the official model.",
+      "The 17.6-inch bar and wireless dial preserve compact desk surface.",
+      "Official specifications clearly state power and color-temperature requirements for the product family."
+    ],
+    "failureModes": [
+      "Amazon model 30769 and part MI-BHR4838GL do not reconcile with Xiaomi's official MJGJD01YL model identity.",
+      "The exact Amazon listing currently has no featured offer, increasing seller and warranty uncertainty.",
+      "Owner reports describe sudden power failures, but the available anecdotes cannot establish frequency or exact regional variant."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 9,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 58. The compact light and wireless dial fit the surface-space problem, but the exact Amazon model fields conflict with Xiaomi's official model, the page has no featured offer, and owner reports add unresolved longevity risk. Do not infer that regional identifiers describe the same warranted U.S. variant.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B0CTJ1DRKW",
+    "siteId": "deskfit",
+    "productName": "ASUS ROG Aura Monitor Light Bar",
+    "model": "ALB01",
+    "variant": "Black 19.6-inch USB-C front task light with rear Aura RGB, adjustable clamp, and DisplayWidget Center support",
+    "asin": "B0CTJ1DRKW",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CTJ1DRKW/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "other",
+    "bestFor": "An ASUS-centered gaming desk that values Aura Sync and subtle rear RGB alongside a front task light, and can use a data-capable USB connection for software control.",
+    "skipIf": "The primary goal is ordinary keyboard or paper lighting, strong wall-wash RGB, low ownership complexity, a confirmed current Amazon offer, or freedom from desktop control software.",
+    "mainTradeoff": "It combines task light and ecosystem RGB, but the independent review found the rear RGB too dim for its positioning and the software clunky, making it poor value for this reader problem.",
+    "closestAlternative": "BenQ ScreenBar Halo 2 B0DK59YKRS for a lighting-first upgrade with documented webcam support, if its featured offer returns.",
+    "editorialThesis": "ALB01 is an ecosystem accessory rather than a better answer to compact-desk task lighting, so RGB and brand integration cannot rescue weak reader fit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CTJ1DRKW",
+        "note": "Verified exact U.S. ASIN and model ALB01 from the Amazon product-detail block. The rendered page retained ASUS model and warranty data but did not expose a current purchase or featured-offer block, so offer readiness remains unverified.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://rog.asus.com/us/monitors/accessories/rog-aura-monitor-light-bar-alb01/",
+        "note": "Manufacturer specifications: ALB01 uses a 19.6-inch front light and rear Aura RGB, USB-C power, physical controls and optional DisplayWidget Center; ASUS claims flat-monitor fit from 9-to-55 mm and curved-monitor fit from 6-to-30 mm.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.windowscentral.com/hardware/asus/asus-rog-aura-monitor-light-bar-review",
+        "note": "Independent exact-model review with an ASUS-provided sample reports secure installation and useful downward light, but calls the software clunky and the rear RGB too dim and narrow for the product's positioning; sample provenance is disclosed.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=ASUS%20ALB01",
+        "note": "Official CPSC site search for ASUS ALB01 returned no results on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, ALB01 model, black variant, and canonical affiliate URL are verified.",
+      "ASUS publishes unusually explicit flat and curved monitor thickness ranges.",
+      "Physical controls preserve basic lighting functions without requiring software."
+    ],
+    "failureModes": [
+      "Current Amazon offer readiness is not exposed in the retrieved listing.",
+      "Independent use found the rear RGB too weak and narrow to justify the ecosystem-upgrade role.",
+      "Software control requires a data-capable USB connection and adds configuration burden to a simple lighting task."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 15,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 5,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 58. Identity and documentation are strong, but the RGB ecosystem role does not materially improve ordinary compact-desk task lighting, independent use found the rear glow weak, software adds ownership burden, and current Amazon offer readiness remains unverified.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B0BD1ZWFZG",
+    "siteId": "deskfit",
+    "productName": "Baseus i-Wok 2 Monitor Light",
+    "model": "DGIW000101",
+    "variant": "Black resting-type USB monitor light with touch control and 2700K-to-6500K adjustment",
+    "asin": "B0BD1ZWFZG",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BD1ZWFZG/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Light a compact monitor-based desk for keyboard, notes, and paper without consuming desk surface or adding visible screen reflections, while avoiding fit surprises with curved or thick monitors, webcams, and USB power.",
+    "decisionSlot": "constraint",
+    "bestFor": "A reader specifically seeking a resting-type bar instead of a tightening clamp, after independently verifying the exact U.S. listing, seller, model, and monitor contact geometry.",
+    "skipIf": "Exact U.S. Amazon listing identity, current offer, independent owner evidence, or a manufacturer-published monitor-thickness range is required.",
+    "mainTradeoff": "The resting mount may suit some bulky or curved housings, but neither the exact U.S. listing nor a quantified official fit envelope could be verified in this run.",
+    "closestAlternative": "BenQ ScreenBar Halo 2 B0DK59YKRS for a quantified thick/curved-monitor fit range and included webcam accessory, if its featured offer returns.",
+    "editorialThesis": "A novel resting mount is not enough to recommend an ASIN whose exact U.S. listing, offer, and independent ownership record are blocked.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BD1ZWFZG",
+        "note": "Evidence blocker: the exact U.S. Amazon page could not be retrieved in this run. A third-party manual index maps B0BD1ZWFZG to Baseus i-Wok 2, but that does not replace direct exact-listing identity or current offer verification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://cz.baseus.com/products/dgiw000101",
+        "note": "Manufacturer regional page identifies DGIW000101 as black Baseus i-Wok 2 with 2700K-to-6500K adjustment, CRI Ra greater than 95 claim, and 80 LEDs. It does not publish a quantified monitor-thickness or curvature envelope on the accessible page.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B0BD1ZWFZG",
+        "note": "Third-party manual index maps B0BD1ZWFZG to the Baseus i-Wok 2 resting-type light and documents USB power and touch control. It is not a substitute for a directly retrieved Amazon listing or a manufacturer-hosted exact U.S. manual.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/search?search_api_fulltext=Baseus%20DGIW000101",
+        "note": "Official CPSC site search for Baseus DGIW000101 returned no results on the check date. This dated no-match is not a safety certification and does not clear the identity blocker.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "The regional manufacturer page verifies DGIW000101 and the black i-Wok 2 product family.",
+      "Resting-type mounting is a distinct constraint slot for housings poorly served by tightening clamps.",
+      "Touch control avoids a separate desktop remote."
+    ],
+    "failureModes": [
+      "The exact U.S. Amazon page and current offer could not be retrieved.",
+      "No quantified official monitor-thickness or curvature range was found.",
+      "No sufficiently exact independent review or current owner pattern was found for this ASIN and regional model."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 16,
+      "evidenceConfidence": 8,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 6,
+      "demandSignal": 1,
+      "commercialValue": 1,
+      "total": 46
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 46. The resting mount is distinct, but the exact U.S. Amazon listing and offer were inaccessible, the official fit envelope is unpublished, and exact independent ownership evidence was not found. Do not invent listing readiness or monitor compatibility from a regional family page.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
   }
 ]
