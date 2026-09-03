@@ -1,0 +1,116 @@
+{
+  "reviewedAt": "2026-09-03",
+  "products": [
+    {
+      "asin": "B01N2RJ0HI",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN still resolves to a GTPLAYER gaming chair rather than the cataloged ErGear dual monitor stand. ErGear maintains a current dual-monitor product-family page, but it does not recover an exact model, manual, or owner-failure record for B01N2RJ0HI, and the current CPSC brand search has no ErGear recall result. This is a reader-facing wrong-product failure: VIVO STAND-V002 covers the measured shallow-desk constraint slot, while the now-purchasable HUANUO HNDS8 still has an unresolved rear-clearance gap and is not yet an evidence-ready general-value replacement.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01N2RJ0HI",
+        "https://uk.ergear.com/products/dual-monitor-mount-for-13-inch-to-32-inch-screens",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=ErGear",
+        "https://www.amazon.com/dp/B0855ZBPXD"
+      ]
+    },
+    {
+      "asin": "B009S750LA",
+      "status": "keep",
+      "reason": "The exact Amazon page again has a featured purchase path and maps B009S750LA to the black VIVO STAND-V002 for two screens up to 30 inches and 22 pounds each. VIVO's current page and assembly manual preserve the model, clamp/grommet, VESA, and fixed-pole specifications; owner/support evidence still makes the two-inch underside clamp-plate depth and static-joint setup the important failure-prevention checks. The CPSC brand search returns only unrelated Vivohome bed rails and VIVO MOUNT-PLAY5 speaker mounts, not STAND-V002. Its measured shallow-desk, set-and-forget decision slot remains distinct, and no candidate better resolves that slot's rear-clearance question.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B009S750LA",
+        "https://vivo-us.com/products/stand-v002",
+        "https://cdn.shopify.com/s/files/1/1190/2562/files/STAND-V002_GY_W_REV2.3LF_online.pdf?v=1727697018",
+        "https://forums.tomshardware.com/threads/help-with-dual-monitor-stand.3558553/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=VIVO"
+      ]
+    },
+    {
+      "asin": "B08B8X4KBV",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN still identifies an Invision MX450 single monitor arm, not the cataloged HUANUO product, and the current page has no featured offer. HUANUO's current SS6 page is a different named model and cannot supply variant, manual, owner-failure, or safety evidence for B08B8X4KBV; the CPSC brand search has no HUANUO recall result. A single-monitor starter slot can still help readers, but no evidence-gated single-arm candidate currently replaces this wrong-product link.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08B8X4KBV",
+        "https://www.huanuo.com/products/single-monitor-arm-mount-ss6",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=HUANUO"
+      ]
+    },
+    {
+      "asin": "B08C2LC3H2",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN still resolves to a TOPSKY dual-motor standing-desk frame rather than the cataloged Nulaxy laptop stand. Nulaxy's current product page documents its C3 stand but does not tie that product or an owner-failure record to B08C2LC3H2, and the CPSC brand search has no Nulaxy recall result. The budget-riser decision remains useful; ivoler B07WBYCTNX and Twelve South Curve Flex B0B7GXDPXL now have purchase paths, but their first-party-documentation and daily-carry-fit gaps remain, so neither is yet a meaningfully better evidence-ready replacement.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08C2LC3H2",
+        "https://nulaxy.com/products/laptop-stand/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Nulaxy",
+        "https://www.amazon.com/dp/B07WBYCTNX",
+        "https://www.amazon.com/dp/B0B7GXDPXL"
+      ]
+    },
+    {
+      "asin": "B07Q3TCT4L",
+      "status": "retire-review",
+      "reason": "The exact Amazon link still returns Page Not Found, so it cannot identify or deliver the cataloged BenQ ScreenBar. BenQ continues to document the original ScreenBar and maintains a current manual index, while owner reports and BenQ guidance preserve monitor-back, bezel, and webcam-clearance fit risks. The current CPSC BenQ result is for GV31 projectors, not a ScreenBar. BenQ Halo 2 candidate B0DK59YKRS now has a featured Amazon offer, clearing its prior purchase-path blocker, but it must be reverified and approved through the candidate ledger before it can replace this dead ASIN.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07Q3TCT4L",
+        "https://www.benq.com/en-us/lighting/monitor-light/screenbar.html",
+        "https://www.benq.com/en-us/support/downloads-faq/products/lighting/screenbar/manual.html",
+        "https://www.reddit.com/r/BenQ/comments/pqign8/benq_screenbar_compatibility/",
+        "https://www.cpsc.gov/Recalls/2026/BenQ-America-Recalls-GV31-Portable-Projectors-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+        "https://www.amazon.com/dp/B0DK59YKRS"
+      ]
+    },
+    {
+      "asin": "B0B1QJQX4W",
+      "status": "retire-review",
+      "reason": "The Amazon ASIN still returns Page Not Found, and Ticova's current site does not recover an exact model, variant, manual, or owner-failure pattern for B0B1QJQX4W; the current CPSC brand search has no Ticova recall result. The adjustable-chair slot remains valuable, and Steelcase Series 1 B078HG8HWF plus HON Ignition 2.0 B06Y3PGPR2 now show featured purchase paths, but the Series 1 arm-package ambiguity and the HON short-user fit limits still require candidate re-review before either can replace this unverifiable chair.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B1QJQX4W",
+        "https://ticovachair.com/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Ticova",
+        "https://www.amazon.com/dp/B078HG8HWF",
+        "https://www.amazon.com/dp/B06Y3PGPR2"
+      ]
+    },
+    {
+      "asin": "B07H2W68N2",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN still returns Page Not Found, and the generic catalog name supplies no manufacturer or model that can anchor current instructions, mounting limits, adhesive or fastener failure patterns, or an exact recall search. The current CPSC cable-raceway title search returns no result, but that no-match cannot establish safety for an unidentified product. Under-desk cable control remains a useful reader decision slot across several guides; no replacement candidate exists in the evidence registry, so this slot needs fresh candidate discovery rather than continued use of the dead ASIN.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07H2W68N2",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=cable%20raceway"
+      ]
+    },
+    {
+      "asin": "B01NBWCTFD",
+      "status": "keep",
+      "reason": "The exact Amazon page has a featured purchase path and maps B01NBWCTFD to black Kensington SoleMate Plus model K52789WW; the model, UPC, roughly 3.5-to-5-inch lift range, footprint, weight, materials, and pedal adjustment reconcile with Kensington's official product sheet. Current exact-model owner aggregation still shows stability and quiet-use positives with setup or mechanism-stiffness in the negative tail. The CPSC Kensington search returns only unrelated shoes and a toy bear. This remains the strongest measured-lift default, and live Fellowes and Humanscale alternatives retain lower-lift, ownership-pattern, or exact-package gaps rather than offering a meaningfully better replacement.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01NBWCTFD",
+        "https://az31609c.azureedge.net/literature/2099f501-84a4-466d-bfdc-34cfaa5a0996.pdf",
+        "https://www.testbericht.de/produkte/acco-kensington-kensington-solemate-plus-k52789ww",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
+      ]
+    },
+    {
+      "asin": "B07V7MT63H",
+      "status": "keep",
+      "reason": "The exact Amazon page has a featured purchase path and maps B07V7MT63H to black Kensington K55407WW with the documented 32.4-inch width, three height settings, and 1.5-inch desk-thickness limit. Kensington's current TAA list and product sheet preserve the exact part and UPC; exact-model owner reports support easy no-drill setup and sliding while retaining the small typing-tremble and load-restraint caveats. The CPSC Kensington results are unrelated products. Its removable no-drill role remains distinct, and the VIVO, 3M, and HUANUO alternatives retain documentation, installation-risk, redundancy, or identity gaps rather than offering a meaningfully better replacement.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07V7MT63H",
+        "https://www.kensington.com/siteassets/solution-pages/federal-page/taa-list-update-2025-q2_1744715202.pdf",
+        "https://www.ergodirect.com/attachments/26511/Product-Sheet-Kensington-K55407WW-SmartFit-Clamp-On-Keyboard-Drawer-TAA.pdf",
+        "https://www.bestbuy.com/site/reviews/kensington-smartfit-clamp-on-keyboard-drawer-black/10732457",
+        "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
+      ]
+    }
+  ]
+}

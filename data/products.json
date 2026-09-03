@@ -7,6 +7,13 @@
     "affiliateUrl": "https://www.amazon.com/dp/B01N2RJ0HI/ref=nosim?tag=abbeybench-20"
   },
   {
+    "asin": "B009S750LA",
+    "name": "VIVO Dual Monitor Desk Mount STAND-V002",
+    "positioning": "Shallow-desk fixed-pole dual arm",
+    "category": "monitor-arm",
+    "affiliateUrl": "https://www.amazon.com/dp/B009S750LA/ref=nosim?tag=abbeybench-20"
+  },
+  {
     "asin": "B08B8X4KBV",
     "name": "HUANUO Single Monitor Mount",
     "positioning": "Single monitor starter arm",
@@ -40,5 +47,19 @@
     "positioning": "Under-desk cable control",
     "category": "cable",
     "affiliateUrl": "https://www.amazon.com/dp/B07H2W68N2/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B01NBWCTFD",
+    "name": "Kensington SmartFit SoleMate Plus Foot Rest K52789WW",
+    "positioning": "Measured lift for shorter fixed-desk users",
+    "category": "footrest",
+    "affiliateUrl": "https://www.amazon.com/dp/B01NBWCTFD/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B07V7MT63H",
+    "name": "Kensington SmartFit Clamp-On Keyboard Drawer K55407WW",
+    "positioning": "No-drill keyboard level for measured fixed-desk fit",
+    "category": "keyboard-tray",
+    "affiliateUrl": "https://www.amazon.com/dp/B07V7MT63H/ref=nosim?tag=abbeybench-20"
   }
 ]
