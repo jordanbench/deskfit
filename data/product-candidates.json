@@ -3502,5 +3502,539 @@
     "sourceRun": "product-discovery:2026-08-31",
     "researchedAt": "2026-08-31",
     "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "deskfit:B09WY2RLQG",
+    "siteId": "deskfit",
+    "productName": "Satechi Dual Vertical Aluminum Stand",
+    "model": "ST-ADVSM",
+    "variant": "Space Gray fixed dual-slot stand with 12 mm front slot and 20 mm rear slot",
+    "asin": "B09WY2RLQG",
+    "affiliateUrl": "https://www.amazon.com/dp/B09WY2RLQG/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A two-device Apple-centered desk where one bare device fits the 12 mm slot and the other fits the 20 mm slot, with a straight lift path and independently anchored cables.",
+    "skipIf": "Either device is thicker than the fixed slots, uses a hard shell, needs a rear-edge port while docked, or the desk is bumped by children or pets.",
+    "mainTradeoff": "The solid aluminum body and two-device footprint are simple and tidy, but neither slot adjusts and Satechi warns that some MacBook cases do not fit.",
+    "closestAlternative": "UGREEN 60643 B09XZTM9QD for two independently adjustable slots from about 12 to 25.4 mm, with more adjustment hardware and a wider fit envelope.",
+    "editorialThesis": "Satechi is the cleanest fixed-slot two-device option, but exact bare-device thickness matters more than its finish or brand match.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09WY2RLQG",
+        "note": "Verified exact U.S. page: B09WY2RLQG maps to Satechi model ST-ADVSM, Space Gray dual vertical aluminum stand. The page exposed a current purchase control and 330 ratings, but its product-title compatibility language is broader than the fixed slot dimensions and must not replace measurement.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://satechi.com/products/satechi-dual-vertical-laptop-stand",
+        "note": "Official ST-ADVSM page verifies Space Gray, 5 by 3.5-inch footprint, 6-inch total length, aluminum construction, protective pads, and fixed 12 mm and 20 mm slots. It says some MacBook Pro cases are not recommended and showed the direct product sold out on the check date.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://appleworld.today/2026/05/dual-vertical-laptop-stand-is-great-for-vertically-cradling-two-devices-with-one-caveat/",
+        "note": "Independent exact-model use found the two-device format convenient but reported that a cased tablet would not fit its slot. This supports the fixed-width caveat rather than a universal-fit claim.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Satechi%20ST-ADVSM&format=json",
+        "note": "Official CPSC recall API query for Satechi ST-ADVSM returned zero records on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B09WY2RLQG",
+        "note": "The exact U.S. page displayed 330 ratings and a 4.8-star aggregate. This is a demand signal only and does not prove fit, stability, or durability.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, ST-ADVSM model, Space Gray variant, and canonical affiliate URL are verified.",
+      "Two fixed slots store two devices without knobs or recurring adjustment.",
+      "The manufacturer publishes unusually clear slot widths and case limitations."
+    ],
+    "failureModes": [
+      "A cased or tapered device can be too thick for one or both fixed slots.",
+      "A narrow fixed slot can press a device while a wide slot can allow rocking when the thickness is mismatched.",
+      "Removing one device or pulling a connected cable can make the remaining asymmetric load less stable."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 78
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 78. Identity, evidence, and current Amazon purchase controls are strong, but the fixed 12 mm and 20 mm slots make this a narrow upgrade rather than the best general answer; case fit is a documented failure mode and the manufacturer currently marks its own inventory sold out.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
+  },
+  {
+    "candidateId": "deskfit:B07RT2C23Y",
+    "siteId": "deskfit",
+    "productName": "HumanCentric Vertical Laptop Stand",
+    "model": "401-1001-G",
+    "variant": "Space Grey single-device aluminum stand with automatic gravity-actuated grip",
+    "asin": "B07RT2C23Y",
+    "affiliateUrl": "https://www.amazon.com/dp/B07RT2C23Y/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "compatibility",
+    "bestFor": "One laptop up to one inch thick that is inserted and removed frequently enough for an automatic grip to matter, after checking the device center of gravity and cable direction.",
+    "skipIf": "The laptop is unusually wide or heavy, the stand cannot be positioned away from the desk edge, rear ports must remain connected, or exact-model independent stability evidence is required.",
+    "mainTradeoff": "The automatic grip removes knob adjustment, but its hold depends on device weight and placement and has less exact-model independent evidence than the UGREEN screw-adjusted options.",
+    "closestAlternative": "UGREEN 20471 B091B4SWR7 for a measured 12-to-26 mm slot that stays fixed after tool-free adjustment.",
+    "editorialThesis": "The auto-grip mechanism is useful for frequent docking, but convenience should not outrank evidence that a particular heavy or wide laptop stays upright.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07RT2C23Y",
+        "note": "Verified exact U.S. listing maps B07RT2C23Y to Space Grey model 401-1001-G and exposed an in-stock purchase block. The page displayed 4,535 ratings.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.humancentric.com/products/vertical-laptop-stand-for-desks",
+        "note": "Official page documents machined aluminum, silicone contact pads, an automatic grip, and fit for laptops up to one inch thick. It does not publish a model number on the accessible page, so exact 401-1001-G continuity is inferred only from the matching Space Grey listing and mechanism and is not treated as independently proven.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://tdcat.squarespace.com/tutorials/humancentrics-vertical-laptop-stand-review",
+        "note": "Independent use praises easy gravity-actuated insertion and removal but warns that rear ports may be hard to use. The review asset names an adjacent HumanCentric model identifier rather than exact 401-1001-G, so it supports mechanism-level limitations but does not clear the exact-model evidence gap.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/framework/comments/1e3kv8n/vertical_laptop_stand_for_fw16/",
+        "note": "Labeled anecdotal pattern: an owner says a HumanCentric stand holding a wide Framework Laptop 16 tends to fall unless adjusted precisely. The post does not state 401-1001-G, so it is a stability question, not an exact-model failure-rate claim.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=HumanCentric%20401-1001-G&format=json",
+        "note": "Official CPSC recall API query for HumanCentric 401-1001-G returned zero records on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B07RT2C23Y",
+        "note": "The exact U.S. page displayed 4,535 ratings and a 4.4-star aggregate. This is a demand signal only.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact U.S. ASIN, 401-1001-G model, Space Grey variant, and affiliate URL are verified.",
+      "Automatic gripping is a distinct fit for laptops swapped in and out frequently.",
+      "Official documentation clearly caps device thickness at one inch."
+    ],
+    "failureModes": [
+      "Heavy or wide laptops may require especially careful centering to avoid lean or tip risk.",
+      "Rear-edge ports can sit too close to the desk surface for clean cable bends.",
+      "Available independent and owner evidence does not identify exact model 401-1001-G."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 9,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 75
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 75. The exact listing and automatic-grip role are clear, but the accessible manufacturer page omits the model number and the independent and owner evidence does not identify 401-1001-G. That exact-model evidence gap blocks approval for a stability-dependent product.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
+  },
+  {
+    "candidateId": "deskfit:B078W4XP77",
+    "siteId": "deskfit",
+    "productName": "OMOTON Dual Vertical Desk Laptop Stand Holder",
+    "model": "8541556542",
+    "variant": "Silver dual-slot aluminum stand with independently adjustable docks for laptops up to 17.3 inches",
+    "asin": "B078W4XP77",
+    "affiliateUrl": "https://www.amazon.com/dp/B078W4XP77/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "budget",
+    "bestFor": "Two thicker laptops that need independently adjustable slots and a shared aluminum base, after the buyer verifies both widths and the one-device removal sequence.",
+    "skipIf": "Current exact-model manufacturer documentation, a published support path, or independently measured stability is required.",
+    "mainTradeoff": "Its wide adjustment range and large rating history are attractive, but OMOTON's current official catalog no longer exposes this exact two-slot model and third-party sources disagree on some weight and slot details.",
+    "closestAlternative": "UGREEN 60643 B09XZTM9QD for exact current manufacturer documentation and narrower, independently adjustable 12-to-25.4 mm slots.",
+    "editorialThesis": "A long-running Amazon listing cannot substitute for current exact-model manufacturer documentation when fit, padding, and adjustment hardware carry the device.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B078W4XP77",
+        "note": "Verified exact U.S. page maps B078W4XP77 to OMOTON model 8541556542, silver dual adjustable stand and exposed an in-stock purchase block. The page displayed 10,619 ratings.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://omoton.com/collections/laptop-stands",
+        "note": "OMOTON's current official laptop-stand catalog lists LD01, LD02, L2, and a separate three-slot vertical model but does not expose exact model 8541556542 or this two-slot variant. This is an evidence blocker, not proof that the Amazon item is discontinued.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://community.frame.work/t/usb-c-thunderbolt-dock-megathread/1460/73",
+        "note": "Labeled anecdotal exact-ASIN use: an owner links B078W4XP77 and reports using it behind a monitor for a closed-lid laptop and dock. This supports the space-saving routine but not stability, fit range, or durability.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://community.ui.com/questions/Unifi-Vertical-Stand/be7b087c-0613-415b-b4dd-9672049234e6",
+        "note": "Labeled anecdotal exact-ASIN use: an owner repurposed B078W4XP77 for two warm network devices and removed the silicone liner. That modification is not a laptop recommendation but shows the adjustable dual-slot format and why padding should not be assumed replaceable.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=OMOTON%208541556542&format=json",
+        "note": "Official CPSC recall API query for OMOTON 8541556542 returned zero records on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B078W4XP77",
+        "note": "The exact U.S. page displayed 10,619 ratings and a 4.8-star aggregate. This is a demand signal only and cannot clear the manufacturer-documentation gap.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, model field, silver variant, and canonical affiliate URL are verified.",
+      "Two independently adjustable slots serve mixed-thickness devices.",
+      "A long exact-ASIN owner trail supports the closed-lid compact-desk use case."
+    ],
+    "failureModes": [
+      "The exact two-slot model is absent from OMOTON's current official catalog.",
+      "Third-party sources conflict on slot range and product weight, weakening precise fit claims.",
+      "Two connected devices can create asymmetric loading and cable leverage when one is removed."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 68. The exact Amazon listing, adjustable dual slots, and owner use fit the reader problem, but the exact model is missing from OMOTON's current official catalog and third-party specifications conflict. Current manufacturer documentation is required before approval.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
+  },
+  {
+    "candidateId": "deskfit:B091B4SWR7",
+    "siteId": "deskfit",
+    "productName": "UGREEN Adjustable Vertical Laptop Stand",
+    "model": "20471 / LP258",
+    "variant": "Gray single-slot aluminum stand adjustable from 12 to 26 mm for one closed laptop",
+    "asin": "B091B4SWR7",
+    "affiliateUrl": "https://www.amazon.com/dp/B091B4SWR7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "default",
+    "bestFor": "One closed laptop measuring 12 to 26 mm at the padded contact point on a stable adult desk, with side-facing cables and a straight lift-out path.",
+    "skipIf": "The laptop is outside the slot range, has bottom or rear ports that the desk would block, must be swapped between thicknesses without readjustment, or the desk is regularly bumped.",
+    "mainTradeoff": "The tool-free screw holds a measured width without relying on gravity, but the 176 g base is light and owners report wobble when a heavy laptop is not adjusted closely.",
+    "closestAlternative": "HumanCentric 401-1001-G B07RT2C23Y for automatic grip during frequent swaps, pending exact-model independent stability evidence.",
+    "editorialThesis": "For one closed laptop, a published 12-to-26 mm range and a fixed post-adjustment grip are more useful than vague universal-fit language, provided the reader performs a cable-pull and bump check.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B091B4SWR7",
+        "note": "Verified exact U.S. page maps B091B4SWR7 to UGREEN model 20471, gray single adjustable vertical stand for laptops up to 17.3 inches. The page exposed an in-stock purchase block and displayed 8,108 ratings.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://nz.ugreen.com/products/ugreen-adjustable-vertical-laptop-stand",
+        "note": "Official regional UGREEN page identifies UG-20471 and documents a 0.5-to-1-inch adjustable slot, aluminum body, silicone contact surfaces, and single-device vertical storage. Another official 20471 regional page publishes a 150 by 78 mm base and 176 g weight.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.pbtech.co.nz/product/NBAUGR0258/UGREEN-LP258-20471-Vertical-Laptop-Stand---Silver?is-review=1&pg=1",
+        "note": "Model-specific verified-owner pattern: owners commonly report solid construction, easy width adjustment, and protective lining; a negative exact-model review reports wobble and repeated screw fiddling with a heavy MacBook Pro. Variant aggregation on the page means this is a pattern, not a measured failure rate.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=UGREEN%2020471&format=json",
+        "note": "Official CPSC recall API query for UGREEN 20471 returned zero records on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B091B4SWR7",
+        "note": "The exact U.S. page displayed 8,108 ratings and a 4.7-star aggregate. This is a demand signal only.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, model 20471, gray single-slot variant, and canonical affiliate URL are verified.",
+      "Official documentation publishes a measurable 12-to-26 mm fit range and compact base dimensions.",
+      "The tool-free screw preserves the chosen width after adjustment instead of depending on a moving grip."
+    ],
+    "failureModes": [
+      "A loosely adjusted slot allows rocking and increases tip risk with a tall or heavy laptop.",
+      "The light 176 g base can move under cable pull or during one-handed removal.",
+      "Closed-lid thermal behavior and wake controls depend on the exact laptop, not the stand."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 12,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 85
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 85 for the one-laptop default slot. The exact U.S. listing is purchasable, model 20471 has current official specifications, owner evidence exposes both stability and wobble conditions, and the CPSC query is clear. Approval still requires the reader to measure thickness and test cable-pull stability.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
+  },
+  {
+    "candidateId": "deskfit:B09XZTM9QD",
+    "siteId": "deskfit",
+    "productName": "UGREEN Dual Slot Adjustable Vertical Laptop Stand",
+    "model": "60643",
+    "variant": "Space Gray dual-slot aluminum stand with two independently adjustable 12-to-25.4 mm slots",
+    "asin": "B09XZTM9QD",
+    "affiliateUrl": "https://www.amazon.com/dp/B09XZTM9QD/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "constraint",
+    "bestFor": "A compact external-monitor desk storing two closed devices of different thicknesses, each between about 12 and 25.4 mm, where both slots can be set independently.",
+    "skipIf": "Either device is thinner than the tightened minimum or thicker than one inch, one-device removal makes the remaining load unstable, or side cables cannot be independently strain-relieved.",
+    "mainTradeoff": "Two independent knobs accommodate mixed devices and cases, but they add adjustment steps and even the tightest setting can leave play around very thin laptops.",
+    "closestAlternative": "UGREEN 20471 B091B4SWR7 when only one laptop needs storage and the smaller base is easier to place.",
+    "editorialThesis": "For two laptops, independent published slot ranges are worth the extra hardware because each device can be fitted without forcing the other into an oversized fixed slot.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09XZTM9QD",
+        "note": "Verified exact U.S. page maps B09XZTM9QD to UGREEN model 60643, Space Gray two-slot adjustable stand for devices up to 17.3 inches. The page exposed an in-stock purchase block and displayed 3,684 ratings.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://uk.ugreen.com/collections/stand-and-holder/products/ugreen-dual-slot-adjustable-width-vertical-laptop-stand",
+        "note": "Official regional UGREEN page verifies SKU 60643, two independently tool-free adjustable slots, aluminum construction, silicone contact pads, and a published 0.47-to-1-inch fit range per slot.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.co.za/UGREEN-Vertical-Adjustable-Compatible-Microsoft/dp/B09XZTM9QD",
+        "note": "Exact-ASIN owner pattern: verified buyers praise the heavy shared base and independent adjustment, while one thin-MacBook owner reports remaining play even at the tightest setting. This is anecdotal and not a failure-rate estimate.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=UGREEN%2060643&format=json",
+        "note": "Official CPSC recall API query for UGREEN 60643 returned zero records on the check date. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B09XZTM9QD",
+        "note": "The exact U.S. page displayed 3,684 ratings and a 4.7-star aggregate. This is a demand signal only.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, model 60643, Space Gray two-slot variant, and canonical affiliate URL are verified.",
+      "Both slots adjust independently across a published 12-to-25.4 mm range.",
+      "Exact-ASIN owner evidence identifies both stable two-device use and a thin-device looseness limit."
+    ],
+    "failureModes": [
+      "A device below the practical minimum may remain loose even with the knob fully tightened.",
+      "Removing one laptop can leave an asymmetric high center of gravity that needs a stability check.",
+      "Two attached cable runs can lever devices sideways unless each is strain-relieved away from the stand."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 12,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 88
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 88 for the two-device constraint slot. Exact ASIN and model, current official specifications, exact-ASIN owner caveats, current U.S. purchase controls, and a zero-result CPSC query are all present. The guide must preserve the thin-device looseness and one-device-removal checks.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
+  },
+  {
+    "candidateId": "deskfit:B0CC5FZCD9",
+    "siteId": "deskfit",
+    "productName": "SODI Gravity Auto-Lock Vertical Laptop Stand",
+    "model": "SM3-300",
+    "variant": "Gray single-device aluminum gravity-lock stand advertised for roughly 10-to-30 mm devices",
+    "asin": "B0CC5FZCD9",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CC5FZCD9/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Store one or two closed laptops vertically beside an external monitor on a compact desk without creating a loose fit, blocked port, cooling, scratch, or tip-over problem.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A buyer prioritizing automatic width changes between one laptop and a tablet, only after independently confirming current seller support, pad adhesion, and exact device stability.",
+    "skipIf": "The desk is bumped, adhesive pad durability is important, exact manufacturer support is required, or the laptop is valuable enough that a generic gravity-lock model identity is unacceptable.",
+    "mainTradeoff": "The gravity lock avoids screws and recurring measurement, but available sources conflict on stability and the SM3-300 model appears under more than one brand without a clear official SODI product page.",
+    "closestAlternative": "HumanCentric 401-1001-G B07RT2C23Y for a documented manufacturer auto-grip design, still held pending exact-model independent stability evidence.",
+    "editorialThesis": "Do not recommend a moving grip around a valuable laptop when first-party identity is weak and owner summaries raise adhesive and tip concerns.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CC5FZCD9",
+        "note": "Verified exact U.S. page maps B0CC5FZCD9 to SODI model SM3-300, gray gravity auto-lock stand and exposed an in-stock offer sold by SodiDesign. The page displayed 736 ratings.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "manual",
+        "url": "https://device.report/manuals/sodi-vertical-laptop-desktop-stand-user-manual",
+        "note": "A third-party manual index documents the SODI gravity-lock format but is not manufacturer-hosted and does not establish ongoing official support. Search also surfaced SM3-300 attached to another brand, leaving supplier identity and service continuity uncertain.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.ubuy.ee/en/product/FTGFMUVB4-sodi-vertical-laptop-stand-for-desk-gravity-auto-lock-laptop-holder-for-macbook-compatible-with-macbook-pro-stand-macbook-air-stand-aluminum",
+        "note": "Labeled aggregated owner pattern: positive comments describe solid aluminum and desk-space savings, while negative summaries report adhesive grip parts and near-tip instability. This is secondary aggregation and cannot establish frequency.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://shopstaff.jp/items/B0CC5FZCD9",
+        "note": "A current exact-ASIN editorial page identifies SM3-300 and the gravity-lock role but says it combines AI analysis with staff checks and does not provide transparent hands-on methods. It is usable only as corroboration, not approval-grade independent testing.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SODI%20SM3-300&format=json",
+        "note": "Official CPSC recall API query for SODI SM3-300 returned zero records on the check date. This dated no-match is not a safety certification and does not clear the identity or stability concerns.",
+        "checkedAt": "2026-09-07"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B0CC5FZCD9",
+        "note": "The exact U.S. page displayed 736 ratings and a 4.7-star aggregate. This is a demand signal only.",
+        "checkedAt": "2026-09-07"
+      }
+    ],
+    "strengths": [
+      "Exact U.S. ASIN, Amazon model field, gray variant, seller, and canonical affiliate URL are recorded.",
+      "Gravity-actuated sizing is meaningfully different from screw-adjusted fixed slots.",
+      "The stand is currently purchasable from the exact U.S. listing."
+    ],
+    "failureModes": [
+      "SM3-300 appears under multiple brand labels, weakening manufacturer and support identity.",
+      "Aggregated owner reports raise adhesive-pad and tip-stability concerns.",
+      "The moving grip adds wear points and does not publish an official SODI maintenance or replacement path."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 8,
+      "ownershipLongevity": 7,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. The automatic fit is distinctive and the exact Amazon offer is current, but no official SODI product page was found, SM3-300 appears under another brand, and aggregated owner evidence raises adhesive and tip-stability concerns. Commercial value cannot rescue those support and risk gaps.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-09-07",
+    "researchedAt": "2026-09-07",
+    "lastVerifiedAt": "2026-09-07"
   }
 ]
