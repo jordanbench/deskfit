@@ -111,6 +111,30 @@
         "https://www.bestbuy.com/site/reviews/kensington-smartfit-clamp-on-keyboard-drawer-black/10732457",
         "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kensington"
       ]
+    },
+    {
+      "asin": "B091B4SWR7",
+      "status": "keep",
+      "reason": "Activated from the approved candidate ledger on 2026-09-08. The exact Amazon ASIN still resolves to the gray UGREEN single-slot vertical laptop stand and exposes a purchase control; UGREEN's current model page identifies 20471 and preserves the measured slot and base specifications. Model-specific owner evidence retains the heavy-laptop wobble and readjustment caveat, and the exact-model CPSC query returned no records on the check date. That dated no-match is not a safety certification. Its one-measured-device role is distinct from the dual-slot 60643.",
+      "checkedAt": "2026-09-08",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B091B4SWR7",
+        "https://nz.ugreen.com/products/ugreen-adjustable-vertical-laptop-stand",
+        "https://www.pbtech.co.nz/product/NBAUGR0258/UGREEN-LP258-20471-Vertical-Laptop-Stand---Silver?is-review=1&pg=1",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=UGREEN%2020471&format=json"
+      ]
+    },
+    {
+      "asin": "B09XZTM9QD",
+      "status": "keep",
+      "reason": "Activated from the approved candidate ledger on 2026-09-08. The exact Amazon ASIN still resolves to the Space Gray UGREEN two-slot vertical laptop stand and exposes a purchase control; UGREEN's current model page identifies 60643 and preserves the two independently adjustable slot specifications. Exact-ASIN owner evidence retains the thin-device looseness caveat, and the exact-model CPSC query returned no records on the check date. That dated no-match is not a safety certification. Its two-different-device role is distinct from the single-slot 20471.",
+      "checkedAt": "2026-09-08",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09XZTM9QD",
+        "https://uk.ugreen.com/collections/stand-and-holder/products/ugreen-dual-slot-adjustable-width-vertical-laptop-stand",
+        "https://www.amazon.co.za/UGREEN-Vertical-Adjustable-Compatible-Microsoft/dp/B09XZTM9QD",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=UGREEN%2060643&format=json"
+      ]
     }
   ]
 }

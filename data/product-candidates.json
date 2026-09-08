@@ -3851,13 +3851,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 85 for the one-laptop default slot. The exact U.S. listing is purchasable, model 20471 has current official specifications, owner evidence exposes both stability and wobble conditions, and the CPSC query is clear. Approval still requires the reader to measure thickness and test cable-pull stability.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-09-08",
+      "guidePath": "/guides/laptop-stand-for-students/"
     },
     "sourceRun": "product-discovery:2026-09-07",
     "researchedAt": "2026-09-07",
-    "lastVerifiedAt": "2026-09-07"
+    "lastVerifiedAt": "2026-09-08"
   },
   {
     "candidateId": "deskfit:B09XZTM9QD",
@@ -3937,13 +3937,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 88 for the two-device constraint slot. Exact ASIN and model, current official specifications, exact-ASIN owner caveats, current U.S. purchase controls, and a zero-result CPSC query are all present. The guide must preserve the thin-device looseness and one-device-removal checks.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-09-08",
+      "guidePath": "/guides/laptop-stand-for-students/"
     },
     "sourceRun": "product-discovery:2026-09-07",
     "researchedAt": "2026-09-07",
-    "lastVerifiedAt": "2026-09-07"
+    "lastVerifiedAt": "2026-09-08"
   },
   {
     "candidateId": "deskfit:B0CC5FZCD9",
